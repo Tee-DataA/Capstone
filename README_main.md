@@ -6,6 +6,8 @@
 ## Dataset Content
 * Dataset shows the value both in local currency and USD of different industries from various countries around the world. The data begins in 2000 and goes up to 2021. Not every country has data in every year, so the user will need to consider this when making decisions.
 
+https://www.iea.org/data-and-statistics/data-product/energy-and-emissions-per-value-added-database
+
 
 ## Business Requirements
 * The user profile is an established investment firm, looking to invest in a new industry. They want a dashboard that allows them to see how the industries have developed over the years so they can make informed decisions when choosing the one to invest into. The user is a global magnate so is willing to invest around the world, but is orginally from Europe/UK, so their primary interest would be to invest in there if it's financially feasible.  
