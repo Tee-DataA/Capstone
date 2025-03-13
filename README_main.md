@@ -1,25 +1,66 @@
-# Project XYZ
-
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+# Capstone Project
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+* Dataset shows the value both in local currency and USD of different industries from various countries around the world. The data begins in 2000 and goes up to 2021. Not every country has data in every year, so the user will need to consider this when making decisions.
 
 
 ## Business Requirements
-* Describe your business requirements
+* The user profile is an established investment firm, looking to invest in a new industry. They want a dashboard that allows them to see how the industries have developed over the years so they can make informed decisions when choosing the one to invest into. The user is a global magnate so is willing to invest around the world, but is orginally from Europe/UK, so their primary interest would be to invest in there if it's financially feasible.  
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+* Investment Opportunities:
+* *  Which manufacturing sectors offer the most promising investment opportunities?
+* *   What are the risks and returns associated with investing in different manufacturing industries?
+* * Which countries are experiencing growth in manufacturing sectors that would make them good places to invest.
+
+Economic Growth and Development:
+
+* Which manufacturing sectors have experienced the most significant growth in specific countries or regions?
+* How has the value of manufacturing output changed over time, and what are the underlying drivers?
+* What is the contribution of manufacturing to overall economic growth?
+* How does the value of different manufacturing sectors compare between countries.
+
+The questions will be validated by providing clear graphs and KPI's which show at which rate the industries are growing, the growth per country, and comparion graphs between the different countries. 
 
 ## Project Plan
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
+* After loading and cleaning the dataset, columns and data will be adjusted to make it easier to read and perform analysis on. 
+* Data is collected through the IEA website which works with governments and industries to shape a secure and sustainable energy future. The data is readily available and free to access. 
+
+The research methodologies were chosen based on the specific requirements and goals of the project. The primary objective was to provide actionable insights for a multimillionaire investor looking to invest in new industries. The methodologies were selected to ensure comprehensive, accurate, and relevant analysis. Here are the key reasons for choosing the methodologies:
+
+1. **Descriptive Statistics:**
+   - **Purpose:** To summarize and describe the main features of the dataset.
+   - **Reason:** Descriptive statistics provide a clear overview of the data, including measures of central tendency (mean, median) and dispersion (standard deviation, range). This helps in understanding the general trends and patterns in the data.
+
+2. **Time Series Analysis:**
+   - **Purpose:** To analyze data points collected or recorded at specific time intervals.
+   - **Reason:** Time series analysis is essential for identifying trends, seasonal patterns, and cyclical behavior in the data over time. This is crucial for understanding how industries have developed and predicting future trends.
+
+3. **Comparative Analysis:**
+   - **Purpose:** To compare different groups or categories within the dataset.
+   - **Reason:** Comparative analysis allows for the evaluation of different industries and countries, highlighting the most promising investment opportunities and identifying areas of growth.
+
+4. **Data Visualization:**
+   - **Purpose:** To represent data graphically.
+   - **Reason:** Visualizations such as graphs, charts, and dashboards make complex data more accessible and understandable. They help in communicating insights effectively to both technical and non-technical audiences.
+
+5. **Machine Learning Techniques (if applicable):**
+   - **Purpose:** To build predictive models and uncover hidden patterns.
+   - **Reason:** Machine learning techniques can enhance the analysis by providing more accurate predictions and identifying relationships that may not be apparent through traditional methods.
+
+6. **Exploratory Data Analysis (EDA):**
+   - **Purpose:** To analyze data sets to summarize their main characteristics.
+   - **Reason:** EDA helps in uncovering initial insights, detecting anomalies, and testing hypotheses. It is a crucial step in understanding the data before applying more complex analytical techniques.
+
+### Justification for Methodologies
+
+The chosen methodologies align with the project's goals of providing clear, actionable insights for investment decisions. They ensure a thorough analysis of the data, considering both historical trends and future projections. By combining descriptive statistics, time series analysis, comparative analysis, and data visualization, the project delivers a comprehensive view of the data, supporting informed decision-making.
+
+Additionally, the use of machine learning techniques (if applicable) and exploratory data analysis further enhances the robustness and depth of the analysis, ensuring that the insights are both accurate and relevant to the user's needs.
 
 ## The rationale to map the business requirements to the Data Visualisations
 * List your business requirements and a rationale to map them to the Data Visualisations
