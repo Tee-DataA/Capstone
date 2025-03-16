@@ -436,42 +436,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Austria,AUT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",25092.15,29632.68,1.180954202808448,0.15258688887330138
 2018,Austria,AUT,Europe,K,Manufacture of transport equipment,5855.46,6915.03,1.180954186349151,0.15258688887330138
 2018,Austria,AUT,Europe,L,"Manufacture of furniture, other manufacturing",2823.53,3334.46,1.1809543373011797,0.15258688887330138
-2019,Austria,AUT,Europe,A,"Manufacture of food products, beverages and tobacco products",6556.85,7340.23,1.1194750528073694,0.15258688887330138
-2019,Austria,AUT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",974.79,1091.25,1.1194718862524236,0.15258688887330138
-2019,Austria,AUT,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2876.84,3220.55,1.1194748404499382,0.15258688887330138
-2019,Austria,AUT,Europe,D,Manufacture of paper products and printing,3062.37,3428.25,1.1194760920463562,0.15258688887330138
-2019,Austria,AUT,Europe,E,Manufacture of coke and refined petroleum products,1106.18,1238.34,1.1194742266177293,0.15258688887330138
-2019,Austria,AUT,Europe,F,Manufacturing of chemicals and pharmaceutical products,5410.49,6056.9,1.1194734672830002,0.15258688887330138
-2019,Austria,AUT,Europe,G,Manufacture of rubber and plastics products,2638.04,2953.22,1.1194750648208518,0.15258688887330138
-2019,Austria,AUT,Europe,H,Manufacture of other non-metallic mineral products,2828.62,3166.57,1.1194752211325665,0.15258688887330138
-2019,Austria,AUT,Europe,I,Manufacture of basic metals,4201.1,4703.03,1.1194758515626857,0.15258688887330138
-2019,Austria,AUT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",25168.37,28175.36,1.1194749600391285,0.15258688887330138
-2019,Austria,AUT,Europe,K,Manufacture of transport equipment,5930.16,6638.66,1.1194740108192696,0.15258688887330138
-2019,Austria,AUT,Europe,L,"Manufacture of furniture, other manufacturing",2772.76,3104.04,1.1194766225710122,0.15258688887330138
-2020,Austria,AUT,Europe,A,"Manufacture of food products, beverages and tobacco products",6740.69,7699.19,1.142196125322482,0.15258688887330138
-2020,Austria,AUT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",886.03,1012.02,1.1421960881685722,0.15258688887330138
-2020,Austria,AUT,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3076.87,3514.39,1.1421964528888124,0.15258688887330138
-2020,Austria,AUT,Europe,D,Manufacture of paper products and printing,2949.3,3368.68,1.142196453395721,0.15258688887330138
-2020,Austria,AUT,Europe,E,Manufacture of coke and refined petroleum products,693.88,792.55,1.1422003804692453,0.15258688887330138
-2020,Austria,AUT,Europe,F,Manufacturing of chemicals and pharmaceutical products,5889.88,6727.41,1.1421981432558896,0.15258688887330138
-2020,Austria,AUT,Europe,G,Manufacture of rubber and plastics products,2574.08,2940.11,1.1421983776727997,0.15258688887330138
-2020,Austria,AUT,Europe,H,Manufacture of other non-metallic mineral products,2601.69,2971.64,1.1421960341162858,0.15258688887330138
-2020,Austria,AUT,Europe,I,Manufacture of basic metals,3666.81,4188.22,1.1421971686561345,0.15258688887330138
-2020,Austria,AUT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",22991.12,26260.39,1.142197074348705,0.15258688887330138
-2020,Austria,AUT,Europe,K,Manufacture of transport equipment,5749.21,6566.73,1.1421969279257498,0.15258688887330138
-2020,Austria,AUT,Europe,L,"Manufacture of furniture, other manufacturing",2479.62,2832.21,1.1421951750671475,0.15258688887330138
-2021,Austria,AUT,Europe,A,"Manufacture of food products, beverages and tobacco products",6874.68,8130.96,1.1827401420866135,0.15258688887330138
-2021,Austria,AUT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",888.83,1051.26,1.1827458569130205,0.15258688887330138
-2021,Austria,AUT,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3719.5,4399.2,1.182739615539723,0.15258688887330138
-2021,Austria,AUT,Europe,D,Manufacture of paper products and printing,2770.64,3276.95,1.1827411717148384,0.15258688887330138
-2021,Austria,AUT,Europe,E,Manufacture of coke and refined petroleum products,782.59,925.6,1.1827393654403966,0.15258688887330138
-2021,Austria,AUT,Europe,F,Manufacturing of chemicals and pharmaceutical products,7885.74,9326.79,1.1827412519307003,0.15258688887330138
-2021,Austria,AUT,Europe,G,Manufacture of rubber and plastics products,2483.82,2937.71,1.1827386847678172,0.15258688887330138
-2021,Austria,AUT,Europe,H,Manufacture of other non-metallic mineral products,2679.54,3169.2,1.1827403210998901,0.15258688887330138
-2021,Austria,AUT,Europe,I,Manufacture of basic metals,3917.23,4633.07,1.1827413759212504,0.15258688887330138
-2021,Austria,AUT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",25143.63,29738.4,1.1827409168843162,0.15258688887330138
-2021,Austria,AUT,Europe,K,Manufacture of transport equipment,5025.0,5943.27,1.1827402985074629,0.15258688887330138
-2021,Austria,AUT,Europe,L,"Manufacture of furniture, other manufacturing",2781.05,3289.26,1.1827403318890348,0.15258688887330138
 2000,Belgium,BEL,Europe,A,"Manufacture of food products, beverages and tobacco products",5484.6,5065.65,0.9236133902198883,0.15462048384599403
 2000,Belgium,BEL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",2364.4,2183.79,0.9236127558788698,0.15462048384599403
 2000,Belgium,BEL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",672.2,620.85,0.923609044927105,0.15462048384599403
@@ -700,35 +664,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Belgium,BEL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",9964.7,11767.86,1.1809547703392977,0.15462048384599403
 2018,Belgium,BEL,Europe,K,Manufacture of transport equipment,3291.1,3886.64,1.1809546959982984,0.15462048384599403
 2018,Belgium,BEL,Europe,L,"Manufacture of furniture, other manufacturing",1342.1,1584.96,1.1809552194322332,0.15462048384599403
-2019,Belgium,BEL,Europe,A,"Manufacture of food products, beverages and tobacco products",8929.7,9996.57,1.1194743384436205,0.15462048384599403
-2019,Belgium,BEL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1242.3,1390.72,1.1194719471947194,0.15462048384599403
-2019,Belgium,BEL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",998.8,1118.13,1.1194733680416502,0.15462048384599403
-2019,Belgium,BEL,Europe,D,Manufacture of paper products and printing,1916.1,2145.02,1.119471843849486,0.15462048384599403
-2019,Belgium,BEL,Europe,E,Manufacture of coke and refined petroleum products,1749.8,1958.86,1.1194765116013259,0.15462048384599403
-2019,Belgium,BEL,Europe,F,Manufacturing of chemicals and pharmaceutical products,19278.3,21581.58,1.1194752649351862,0.15462048384599403
-2019,Belgium,BEL,Europe,G,Manufacture of rubber and plastics products,2399.9,2686.63,1.1194758114921455,0.15462048384599403
-2019,Belgium,BEL,Europe,H,Manufacture of other non-metallic mineral products,2672.1,2991.35,1.1194753190374611,0.15462048384599403
-2019,Belgium,BEL,Europe,I,Manufacture of basic metals,2892.9,3238.53,1.119475267033081,0.15462048384599403
-2019,Belgium,BEL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",10134.7,11345.55,1.1194756628217903,0.15462048384599403
-2019,Belgium,BEL,Europe,K,Manufacture of transport equipment,3301.0,3695.39,1.119475916388973,0.15462048384599403
-2019,Belgium,BEL,Europe,L,"Manufacture of furniture, other manufacturing",1507.7,1687.83,1.1194733700338262,0.15462048384599403
-2020,Belgium,BEL,Europe,A,"Manufacture of food products, beverages and tobacco products",8571.0,9789.77,1.1421969431804924,0.15462048384599403
-2020,Belgium,BEL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1138.9,1300.85,1.1421986126964614,0.15462048384599403
-2020,Belgium,BEL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",995.0,1136.49,1.1422010050251257,0.15462048384599403
-2020,Belgium,BEL,Europe,D,Manufacture of paper products and printing,1773.5,2025.69,1.1421990414434733,0.15462048384599403
-2020,Belgium,BEL,Europe,E,Manufacture of coke and refined petroleum products,985.9,1126.09,1.1421949487777665,0.15462048384599403
-2020,Belgium,BEL,Europe,F,Manufacturing of chemicals and pharmaceutical products,20059.6,22912.01,1.1421967536740514,0.15462048384599403
-2020,Belgium,BEL,Europe,G,Manufacture of rubber and plastics products,2489.7,2843.73,1.1421978551632728,0.15462048384599403
-2020,Belgium,BEL,Europe,H,Manufacture of other non-metallic mineral products,2596.4,2965.6,1.1421968879987674,0.15462048384599403
-2020,Belgium,BEL,Europe,I,Manufacture of basic metals,2464.0,2814.37,1.1421956168831169,0.15462048384599403
-2020,Belgium,BEL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",9551.5,10909.69,1.1421965136366017,0.15462048384599403
-2020,Belgium,BEL,Europe,K,Manufacture of transport equipment,2746.6,3137.16,1.1421976261559748,0.15462048384599403
-2020,Belgium,BEL,Europe,L,"Manufacture of furniture, other manufacturing",1466.0,1674.46,1.1421964529331514,0.15462048384599403
-2021,Belgium,BEL,Europe,A,"Manufacture of food products, beverages and tobacco products",9097.7,10760.22,1.182740692702551,0.15462048384599403
-2021,Belgium,BEL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1297.0,1534.01,1.1827370855821127,0.15462048384599403
-2021,Belgium,BEL,Europe,E,Manufacture of coke and refined petroleum products,1718.6,2032.66,1.1827417665541722,0.15462048384599403
-2021,Belgium,BEL,Europe,F,Manufacturing of chemicals and pharmaceutical products,20018.2,23676.34,1.1827407059575785,0.15462048384599403
-2021,Belgium,BEL,Europe,K,Manufacture of transport equipment,2779.6,3287.55,1.1827421211685136,0.15462048384599403
 2000,Brazil,BRA,South America,A,"Manufacture of food products, beverages and tobacco products",18078.21,9881.92,0.546620489528554,0.10171845202368249
 2000,Brazil,BRA,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",18646.98,10192.82,0.5466204178907255,0.10171845202368249
 2000,Brazil,BRA,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3311.71,1810.25,0.5466209299727331,0.10171845202368249
@@ -1392,30 +1327,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Bulgaria,BGR,South America,J,"Manufacture of fabricated metal products, machinery and equipment",4063.9,2452.51,0.6034867983956299,0.07956554807699096
 2018,Bulgaria,BGR,South America,K,Manufacture of transport equipment,666.44,402.19,0.6034901866634655,0.07956554807699096
 2018,Bulgaria,BGR,South America,L,"Manufacture of furniture, other manufacturing",905.9,546.7,0.6034882437355117,0.07956554807699096
-2019,Bulgaria,BGR,South America,A,"Manufacture of food products, beverages and tobacco products",2500.28,1431.15,0.572395891660134,0.07956554807699096
-2019,Bulgaria,BGR,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",1566.37,896.59,0.5723998799772724,0.07956554807699096
-2019,Bulgaria,BGR,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",255.84,146.44,0.5723889931207005,0.07956554807699096
-2019,Bulgaria,BGR,South America,D,Manufacture of paper products and printing,654.19,374.45,0.5723872269524144,0.07956554807699096
-2019,Bulgaria,BGR,South America,E,Manufacture of coke and refined petroleum products,344.85,197.39,0.5723937944033637,0.07956554807699096
-2019,Bulgaria,BGR,South America,F,Manufacturing of chemicals and pharmaceutical products,1215.98,696.03,0.5724025066201747,0.07956554807699096
-2019,Bulgaria,BGR,South America,G,Manufacture of rubber and plastics products,915.17,523.84,0.572396385371024,0.07956554807699096
-2019,Bulgaria,BGR,South America,H,Manufacture of other non-metallic mineral products,966.76,553.37,0.5723964582729943,0.07956554807699096
-2019,Bulgaria,BGR,South America,I,Manufacture of basic metals,995.66,569.91,0.57239419078802,0.07956554807699096
-2019,Bulgaria,BGR,South America,J,"Manufacture of fabricated metal products, machinery and equipment",4323.85,2474.95,0.5723949720734992,0.07956554807699096
-2019,Bulgaria,BGR,South America,K,Manufacture of transport equipment,729.66,417.66,0.5724035852314777,0.07956554807699096
-2019,Bulgaria,BGR,South America,L,"Manufacture of furniture, other manufacturing",1012.16,579.36,0.5723996206133418,0.07956554807699096
-2020,Bulgaria,BGR,South America,A,"Manufacture of food products, beverages and tobacco products",2793.17,1627.41,0.582639080328086,0.07956554807699096
-2020,Bulgaria,BGR,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",1408.12,820.42,0.5826350026986337,0.07956554807699096
-2020,Bulgaria,BGR,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",251.16,146.33,0.5826166587036152,0.07956554807699096
-2020,Bulgaria,BGR,South America,D,Manufacture of paper products and printing,591.19,344.45,0.5826384072802313,0.07956554807699096
-2020,Bulgaria,BGR,South America,E,Manufacture of coke and refined petroleum products,-135.04,-78.68,0.5826421800947869,0.07956554807699096
-2020,Bulgaria,BGR,South America,F,Manufacturing of chemicals and pharmaceutical products,1375.19,801.24,0.5826394898159527,0.07956554807699096
-2020,Bulgaria,BGR,South America,G,Manufacture of rubber and plastics products,1046.46,609.71,0.5826405213768324,0.07956554807699096
-2020,Bulgaria,BGR,South America,H,Manufacture of other non-metallic mineral products,1008.72,587.72,0.5826393845665795,0.07956554807699096
-2020,Bulgaria,BGR,South America,I,Manufacture of basic metals,874.92,509.76,0.5826361267315869,0.07956554807699096
-2020,Bulgaria,BGR,South America,J,"Manufacture of fabricated metal products, machinery and equipment",3854.47,2245.76,0.5826378205045053,0.07956554807699096
-2020,Bulgaria,BGR,South America,K,Manufacture of transport equipment,888.61,517.74,0.5826403033951902,0.07956554807699096
-2020,Bulgaria,BGR,South America,L,"Manufacture of furniture, other manufacturing",788.32,459.31,0.5826441039171909,0.07956554807699096
 2000,Cambodia,KHM,South America,A,"Manufacture of food products, beverages and tobacco products",327615.97,85.3,0.00026036581794226945,4.880901253809437e-06
 2000,Cambodia,KHM,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",2673162.0,696.0,0.00026036581396862593,4.880901253809437e-06
 2000,Cambodia,KHM,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",359878.28,93.7,0.00026036581035121097,4.880901253809437e-06
@@ -2055,16 +1966,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Chile,CHL,South America,I,Manufacture of basic metals,9355267.0,14588.5,0.0015593889516996148,0.00022146106915347488
 2018,Chile,CHL,South America,J,"Manufacture of fabricated metal products, machinery and equipment",5178481.5,8075.27,0.0015593895623649521,0.00022146106915347488
 2018,Chile,CHL,South America,K,Manufacture of transport equipment,694118.0,1082.4,0.0015593890375987945,0.00022146106915347488
-2019,Chile,CHL,South America,A,"Manufacture of food products, beverages and tobacco products",7133126.5,10148.18,0.0014226833072426236,0.00022146106915347488
-2019,Chile,CHL,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",239574.61,340.84,0.0014226883224395105,0.00022146106915347488
-2019,Chile,CHL,South America,E,Manufacture of coke and refined petroleum products,410667.09,584.25,0.0014226852217449418,0.00022146106915347488
-2019,Chile,CHL,South America,G,Manufacture of rubber and plastics products,2978310.0,4237.19,0.0014226826623152055,0.00022146106915347488
-2019,Chile,CHL,South America,H,Manufacture of other non-metallic mineral products,669888.38,953.04,0.0014226847762309296,0.00022146106915347488
-2020,Chile,CHL,South America,A,"Manufacture of food products, beverages and tobacco products",7497910.5,9458.37,0.0012614674448301298,0.00022146106915347488
-2020,Chile,CHL,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",191230.34,241.23,0.0012614630084326578,0.00022146106915347488
-2020,Chile,CHL,South America,E,Manufacture of coke and refined petroleum products,274340.84,346.07,0.0012614600144841722,0.00022146106915347488
-2020,Chile,CHL,South America,G,Manufacture of rubber and plastics products,3167639.25,3995.88,0.001261469405015107,0.00022146106915347488
-2020,Chile,CHL,South America,H,Manufacture of other non-metallic mineral products,680404.94,858.31,0.001261469383217588,0.00022146106915347488
 2000,China,CHN,Asia,A,"Manufacture of food products, beverages and tobacco products",421389.72,50901.7,0.12079483097024768,0.015959427033933094
 2000,China,CHN,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",310767.44,37539.1,0.1207948297286228,0.015959427033933094
 2000,China,CHN,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",41180.57,4974.4,0.12079483115459547,0.015959427033933094
@@ -2706,24 +2607,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Colombia,COL,South America,J,"Manufacture of fabricated metal products, machinery and equipment",10661674.0,3607.15,0.000338328671463787,8.286861119030593e-05
 2018,Colombia,COL,South America,K,Manufacture of transport equipment,2477000.0,838.04,0.00033832862333467906,8.286861119030593e-05
 2018,Colombia,COL,South America,L,"Manufacture of furniture, other manufacturing",5747000.0,1944.37,0.00033832782321211065,8.286861119030593e-05
-2019,Colombia,COL,South America,A,"Manufacture of food products, beverages and tobacco products",31684000.0,9657.31,0.00030480084585279637,8.286861119030593e-05
-2019,Colombia,COL,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",11175000.0,3406.15,0.00030480089485458614,8.286861119030593e-05
-2019,Colombia,COL,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1010000.0,307.85,0.0003048019801980198,8.286861119030593e-05
-2019,Colombia,COL,South America,D,Manufacture of paper products and printing,5283000.0,1610.26,0.0003048003028582245,8.286861119030593e-05
-2019,Colombia,COL,South America,E,Manufacture of coke and refined petroleum products,14360000.0,4376.94,0.00030480083565459607,8.286861119030593e-05
-2019,Colombia,COL,South America,G,Manufacture of rubber and plastics products,3196000.0,974.14,0.0003047997496871089,8.286861119030593e-05
-2019,Colombia,COL,South America,H,Manufacture of other non-metallic mineral products,12090000.0,3685.04,0.0003048006617038875,8.286861119030593e-05
-2019,Colombia,COL,South America,K,Manufacture of transport equipment,2718000.0,828.45,0.00030480132450331126,8.286861119030593e-05
-2019,Colombia,COL,South America,L,"Manufacture of furniture, other manufacturing",5774000.0,1759.92,0.00030480083131278145,8.286861119030593e-05
-2020,Colombia,COL,South America,A,"Manufacture of food products, beverages and tobacco products",32552000.0,8810.09,0.0002706466576554436,8.286861119030593e-05
-2020,Colombia,COL,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",8146000.0,2204.69,0.0002706469432850479,8.286861119030593e-05
-2020,Colombia,COL,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",977000.0,264.42,0.0002706448311156602,8.286861119030593e-05
-2020,Colombia,COL,South America,D,Manufacture of paper products and printing,5166000.0,1398.16,0.00027064653503677897,8.286861119030593e-05
-2020,Colombia,COL,South America,E,Manufacture of coke and refined petroleum products,10808000.0,2925.15,0.0002706467431532198,8.286861119030593e-05
-2020,Colombia,COL,South America,G,Manufacture of rubber and plastics products,3129000.0,846.85,0.0002706455736657079,8.286861119030593e-05
-2020,Colombia,COL,South America,H,Manufacture of other non-metallic mineral products,10634000.0,2878.06,0.00027064698138047773,8.286861119030593e-05
-2020,Colombia,COL,South America,K,Manufacture of transport equipment,2109000.0,570.79,0.00027064485538169745,8.286861119030593e-05
-2020,Colombia,COL,South America,L,"Manufacture of furniture, other manufacturing",5356000.0,1449.58,0.0002706460044809559,8.286861119030593e-05
 2000,Costa Rica,CRI,South America,A,"Manufacture of food products, beverages and tobacco products",340783.91,1105.77,0.0032447834758395724,0.00043252472456224483
 2000,Costa Rica,CRI,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",129807.09,421.2,0.0032448150559418595,0.00043252472456224483
 2000,Costa Rica,CRI,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",5459.71,17.72,0.00324559363043092,0.00043252472456224483
@@ -3172,30 +3055,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Croatia,HRV,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",11876.2,1891.42,0.15926137990266245,0.02215374911125259
 2018,Croatia,HRV,Europe,K,Manufacture of transport equipment,951.29,151.5,0.15925742938536094,0.02215374911125259
 2018,Croatia,HRV,Europe,L,"Manufacture of furniture, other manufacturing",1964.61,312.88,0.159258071576547,0.02215374911125259
-2019,Croatia,HRV,Europe,A,"Manufacture of food products, beverages and tobacco products",11871.17,1792.54,0.1509994381345731,0.02215374911125259
-2019,Croatia,HRV,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",2913.12,439.88,0.1509996155324875,0.02215374911125259
-2019,Croatia,HRV,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2344.53,354.02,0.15099828110538144,0.02215374911125259
-2019,Croatia,HRV,Europe,D,Manufacture of paper products and printing,2692.28,406.53,0.15099841026936275,0.02215374911125259
-2019,Croatia,HRV,Europe,E,Manufacture of coke and refined petroleum products,3841.04,579.99,0.15099816716306,0.02215374911125259
-2019,Croatia,HRV,Europe,F,Manufacturing of chemicals and pharmaceutical products,3906.03,589.81,0.15099986431235804,0.02215374911125259
-2019,Croatia,HRV,Europe,G,Manufacture of rubber and plastics products,1863.07,281.32,0.15099808380790847,0.02215374911125259
-2019,Croatia,HRV,Europe,H,Manufacture of other non-metallic mineral products,2640.85,398.77,0.1510006247988337,0.02215374911125259
-2019,Croatia,HRV,Europe,I,Manufacture of basic metals,893.72,134.95,0.15099807545987556,0.02215374911125259
-2019,Croatia,HRV,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",10852.64,1638.74,0.15099920388034618,0.02215374911125259
-2019,Croatia,HRV,Europe,K,Manufacture of transport equipment,1762.77,266.18,0.15100098140994003,0.02215374911125259
-2019,Croatia,HRV,Europe,L,"Manufacture of furniture, other manufacturing",2303.08,347.76,0.1509977942581239,0.02215374911125259
-2020,Croatia,HRV,Europe,A,"Manufacture of food products, beverages and tobacco products",11148.11,1685.52,0.151193341292829,0.02215374911125259
-2020,Croatia,HRV,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",2400.7,362.97,0.15119340192443873,0.02215374911125259
-2020,Croatia,HRV,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2136.63,323.04,0.15119136209825754,0.02215374911125259
-2020,Croatia,HRV,Europe,D,Manufacture of paper products and printing,2505.01,378.74,0.15119300920954407,0.02215374911125259
-2020,Croatia,HRV,Europe,E,Manufacture of coke and refined petroleum products,2491.89,376.76,0.15119447487649937,0.02215374911125259
-2020,Croatia,HRV,Europe,F,Manufacturing of chemicals and pharmaceutical products,4101.27,620.09,0.15119462995608676,0.02215374911125259
-2020,Croatia,HRV,Europe,G,Manufacture of rubber and plastics products,1723.52,260.58,0.15119058670627553,0.02215374911125259
-2020,Croatia,HRV,Europe,H,Manufacture of other non-metallic mineral products,2724.73,411.96,0.15119296223846032,0.02215374911125259
-2020,Croatia,HRV,Europe,I,Manufacture of basic metals,771.6,116.66,0.15119232763089682,0.02215374911125259
-2020,Croatia,HRV,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",11251.27,1701.12,0.1511935985893148,0.02215374911125259
-2020,Croatia,HRV,Europe,K,Manufacture of transport equipment,1242.53,187.86,0.15119152052666737,0.02215374911125259
-2020,Croatia,HRV,Europe,L,"Manufacture of furniture, other manufacturing",1960.38,296.4,0.15119517644538302,0.02215374911125259
 2000,Cyprus,CYP,Europe,A,"Manufacture of food products, beverages and tobacco products",325.3,305.89,0.9403320012296341,0.1549368196931211
 2000,Cyprus,CYP,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",65.1,61.22,0.9403993855606759,0.1549368196931211
 2000,Cyprus,CYP,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",53.7,50.5,0.9404096834264432,0.1549368196931211
@@ -3424,18 +3283,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Cyprus,CYP,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",179.7,212.08,1.1801892042292712,0.1549368196931211
 2018,Cyprus,CYP,Europe,K,Manufacture of transport equipment,6.4,7.55,1.1796875,0.1549368196931211
 2018,Cyprus,CYP,Europe,L,"Manufacture of furniture, other manufacturing",39.5,46.62,1.180253164556962,0.1549368196931211
-2019,Cyprus,CYP,Europe,A,"Manufacture of food products, beverages and tobacco products",382.0,427.6,1.1193717277486912,0.1549368196931211
-2019,Cyprus,CYP,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",18.7,20.93,1.1192513368983958,0.1549368196931211
-2019,Cyprus,CYP,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",62.0,69.4,1.1193548387096774,0.1549368196931211
-2019,Cyprus,CYP,Europe,D,Manufacture of paper products and printing,45.2,50.59,1.1192477876106195,0.1549368196931211
-2019,Cyprus,CYP,Europe,E,Manufacture of coke and refined petroleum products,2.2,2.46,1.1181818181818182,0.1549368196931211
-2019,Cyprus,CYP,Europe,F,Manufacturing of chemicals and pharmaceutical products,184.3,206.31,1.1194248507867606,0.1549368196931211
-2019,Cyprus,CYP,Europe,G,Manufacture of rubber and plastics products,32.0,35.82,1.119375,0.1549368196931211
-2019,Cyprus,CYP,Europe,H,Manufacture of other non-metallic mineral products,139.2,155.82,1.119396551724138,0.1549368196931211
-2019,Cyprus,CYP,Europe,I,Manufacture of basic metals,23.6,26.42,1.1194915254237288,0.1549368196931211
-2019,Cyprus,CYP,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",199.9,223.76,1.11935967983992,0.1549368196931211
-2019,Cyprus,CYP,Europe,K,Manufacture of transport equipment,6.6,7.39,1.1196969696969696,0.1549368196931211
-2019,Cyprus,CYP,Europe,L,"Manufacture of furniture, other manufacturing",40.5,45.33,1.1192592592592592,0.1549368196931211
 2000,Czech Republic,CZE,Europe,A,"Manufacture of food products, beverages and tobacco products",73089.0,1893.58,0.025907865752712447,0.008581266857438133
 2000,Czech Republic,CZE,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",30889.0,800.27,0.025907928388746802,0.008581266857438133
 2000,Czech Republic,CZE,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16133.0,417.97,0.025907766689394412,0.008581266857438133
@@ -3664,42 +3511,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Czech Republic,CZE,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",417428.0,19209.83,0.04601950516017134,0.008581266857438133
 2018,Czech Republic,CZE,Europe,K,Manufacture of transport equipment,277058.0,12750.07,0.04601949772249854,0.008581266857438133
 2018,Czech Republic,CZE,Europe,L,"Manufacture of furniture, other manufacturing",44131.0,2030.89,0.046019578074369495,0.008581266857438133
-2019,Czech Republic,CZE,Europe,A,"Manufacture of food products, beverages and tobacco products",107266.0,4677.52,0.0436067346596312,0.008581266857438133
-2019,Czech Republic,CZE,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",28325.0,1235.16,0.043606707855251545,0.008581266857438133
-2019,Czech Republic,CZE,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",33085.0,1442.73,0.043606770439776336,0.008581266857438133
-2019,Czech Republic,CZE,Europe,D,Manufacture of paper products and printing,40238.0,1754.65,0.04360678960186888,0.008581266857438133
-2019,Czech Republic,CZE,Europe,E,Manufacture of coke and refined petroleum products,1067.0,46.53,0.043608247422680414,0.008581266857438133
-2019,Czech Republic,CZE,Europe,F,Manufacturing of chemicals and pharmaceutical products,69169.0,3016.23,0.043606673509809304,0.008581266857438133
-2019,Czech Republic,CZE,Europe,G,Manufacture of rubber and plastics products,93379.0,4071.95,0.043606699579134496,0.008581266857438133
-2019,Czech Republic,CZE,Europe,H,Manufacture of other non-metallic mineral products,59138.0,2578.81,0.04360664885521999,0.008581266857438133
-2019,Czech Republic,CZE,Europe,I,Manufacture of basic metals,34609.0,1509.18,0.04360657632407755,0.008581266857438133
-2019,Czech Republic,CZE,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",439795.0,19178.01,0.04360670312304596,0.008581266857438133
-2019,Czech Republic,CZE,Europe,K,Manufacture of transport equipment,303320.0,13226.79,0.04360671897665832,0.008581266857438133
-2019,Czech Republic,CZE,Europe,L,"Manufacture of furniture, other manufacturing",46854.0,2043.15,0.043606735817646305,0.008581266857438133
-2020,Czech Republic,CZE,Europe,A,"Manufacture of food products, beverages and tobacco products",109954.0,4737.3,0.04308438074103716,0.008581266857438133
-2020,Czech Republic,CZE,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",27584.0,1188.44,0.04308439675174014,0.008581266857438133
-2020,Czech Republic,CZE,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",33043.0,1423.64,0.043084465696214026,0.008581266857438133
-2020,Czech Republic,CZE,Europe,D,Manufacture of paper products and printing,40299.0,1736.26,0.043084443782724136,0.008581266857438133
-2020,Czech Republic,CZE,Europe,E,Manufacture of coke and refined petroleum products,1210.0,52.13,0.04308264462809917,0.008581266857438133
-2020,Czech Republic,CZE,Europe,F,Manufacturing of chemicals and pharmaceutical products,63260.0,2725.52,0.04308441353145748,0.008581266857438133
-2020,Czech Republic,CZE,Europe,G,Manufacture of rubber and plastics products,88165.0,3798.54,0.04308444394033913,0.008581266857438133
-2020,Czech Republic,CZE,Europe,H,Manufacture of other non-metallic mineral products,56483.0,2433.54,0.04308446789299435,0.008581266857438133
-2020,Czech Republic,CZE,Europe,I,Manufacture of basic metals,28766.0,1239.37,0.043084544253632756,0.008581266857438133
-2020,Czech Republic,CZE,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",425376.0,18327.08,0.043084424133002334,0.008581266857438133
-2020,Czech Republic,CZE,Europe,K,Manufacture of transport equipment,245312.0,10569.12,0.0430843986433603,0.008581266857438133
-2020,Czech Republic,CZE,Europe,L,"Manufacture of furniture, other manufacturing",46140.0,1987.91,0.04308430862592111,0.008581266857438133
-2021,Czech Republic,CZE,Europe,A,"Manufacture of food products, beverages and tobacco products",111483.0,5142.64,0.04612936501529381,0.008581266857438133
-2021,Czech Republic,CZE,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",28340.0,1307.31,0.04612949894142555,0.008581266857438133
-2021,Czech Republic,CZE,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",36010.0,1661.12,0.046129408497639544,0.008581266857438133
-2021,Czech Republic,CZE,Europe,D,Manufacture of paper products and printing,43963.0,2027.99,0.046129472510975135,0.008581266857438133
-2021,Czech Republic,CZE,Europe,E,Manufacture of coke and refined petroleum products,836.0,38.56,0.0461244019138756,0.008581266857438133
-2021,Czech Republic,CZE,Europe,F,Manufacturing of chemicals and pharmaceutical products,53503.0,2468.06,0.046129375922845446,0.008581266857438133
-2021,Czech Republic,CZE,Europe,G,Manufacture of rubber and plastics products,96900.0,4469.94,0.04612941176470588,0.008581266857438133
-2021,Czech Republic,CZE,Europe,H,Manufacture of other non-metallic mineral products,63290.0,2919.53,0.04612940432927793,0.008581266857438133
-2021,Czech Republic,CZE,Europe,I,Manufacture of basic metals,26790.0,1235.81,0.04612952594251586,0.008581266857438133
-2021,Czech Republic,CZE,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",464614.0,21432.35,0.04612936760407564,0.008581266857438133
-2021,Czech Republic,CZE,Europe,K,Manufacture of transport equipment,260301.0,12007.52,0.04612936561903335,0.008581266857438133
-2021,Czech Republic,CZE,Europe,L,"Manufacture of furniture, other manufacturing",48292.0,2227.68,0.04612937960738838,0.008581266857438133
 2000,Denmark,DNK,Europe,A,"Manufacture of food products, beverages and tobacco products",30458.0,3768.09,0.12371429509488477,0.02035440609226914
 2000,Denmark,DNK,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",5098.0,630.7,0.1237151824244802,0.02035440609226914
 2000,Denmark,DNK,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",5374.0,664.84,0.12371417938221065,0.02035440609226914
@@ -3928,42 +3739,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Denmark,DNK,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",93057.0,14736.76,0.15836272392189735,0.02035440609226914
 2018,Denmark,DNK,Europe,K,Manufacture of transport equipment,4226.0,669.24,0.15836251774727875,0.02035440609226914
 2018,Denmark,DNK,Europe,L,"Manufacture of furniture, other manufacturing",19061.0,3018.55,0.15836262525575784,0.02035440609226914
-2019,Denmark,DNK,Europe,A,"Manufacture of food products, beverages and tobacco products",31863.0,4777.46,0.1499375451150237,0.02035440609226914
-2019,Denmark,DNK,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3517.0,527.33,0.1499374466875178,0.02035440609226914
-2019,Denmark,DNK,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",4590.0,688.21,0.1499368191721133,0.02035440609226914
-2019,Denmark,DNK,Europe,D,Manufacture of paper products and printing,6056.0,908.02,0.14993725231175692,0.02035440609226914
-2019,Denmark,DNK,Europe,E,Manufacture of coke and refined petroleum products,2288.0,343.06,0.1499388111888112,0.02035440609226914
-2019,Denmark,DNK,Europe,F,Manufacturing of chemicals and pharmaceutical products,106779.0,16010.17,0.14993744088257055,0.02035440609226914
-2019,Denmark,DNK,Europe,G,Manufacture of rubber and plastics products,8760.0,1313.45,0.14993721461187215,0.02035440609226914
-2019,Denmark,DNK,Europe,H,Manufacture of other non-metallic mineral products,10942.0,1640.62,0.14993785414001096,0.02035440609226914
-2019,Denmark,DNK,Europe,I,Manufacture of basic metals,3404.0,510.39,0.14993830787309048,0.02035440609226914
-2019,Denmark,DNK,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",101400.0,15203.66,0.14993747534516766,0.02035440609226914
-2019,Denmark,DNK,Europe,K,Manufacture of transport equipment,4403.0,660.17,0.1499364069952305,0.02035440609226914
-2019,Denmark,DNK,Europe,L,"Manufacture of furniture, other manufacturing",19426.0,2912.69,0.14993771234428085,0.02035440609226914
-2020,Denmark,DNK,Europe,A,"Manufacture of food products, beverages and tobacco products",32105.0,4907.41,0.15285500700825416,0.02035440609226914
-2020,Denmark,DNK,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3408.0,520.93,0.1528550469483568,0.02035440609226914
-2020,Denmark,DNK,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",4636.0,708.64,0.15285591026747194,0.02035440609226914
-2020,Denmark,DNK,Europe,D,Manufacture of paper products and printing,6078.0,929.06,0.152856202698256,0.02035440609226914
-2020,Denmark,DNK,Europe,E,Manufacture of coke and refined petroleum products,825.0,126.11,0.15286060606060606,0.02035440609226914
-2020,Denmark,DNK,Europe,F,Manufacturing of chemicals and pharmaceutical products,112385.0,17178.6,0.15285491836099122,0.02035440609226914
-2020,Denmark,DNK,Europe,G,Manufacture of rubber and plastics products,9097.0,1390.52,0.152854787292514,0.02035440609226914
-2020,Denmark,DNK,Europe,H,Manufacture of other non-metallic mineral products,11384.0,1740.1,0.15285488404778635,0.02035440609226914
-2020,Denmark,DNK,Europe,I,Manufacture of basic metals,2791.0,426.62,0.15285560730920816,0.02035440609226914
-2020,Denmark,DNK,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",93166.0,14240.88,0.15285490414958244,0.02035440609226914
-2020,Denmark,DNK,Europe,K,Manufacture of transport equipment,4011.0,613.1,0.15285464971328847,0.02035440609226914
-2020,Denmark,DNK,Europe,L,"Manufacture of furniture, other manufacturing",20257.0,3096.38,0.1528548156192921,0.02035440609226914
-2021,Denmark,DNK,Europe,A,"Manufacture of food products, beverages and tobacco products",27972.0,4449.1,0.15905548405548406,0.02035440609226914
-2021,Denmark,DNK,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3207.0,510.09,0.15905519176800748,0.02035440609226914
-2021,Denmark,DNK,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",5249.0,834.88,0.15905505810630596,0.02035440609226914
-2021,Denmark,DNK,Europe,D,Manufacture of paper products and printing,6076.0,966.42,0.1590552995391705,0.02035440609226914
-2021,Denmark,DNK,Europe,E,Manufacture of coke and refined petroleum products,771.0,122.63,0.15905317769130997,0.02035440609226914
-2021,Denmark,DNK,Europe,F,Manufacturing of chemicals and pharmaceutical products,108001.0,17178.16,0.15905556430033055,0.02035440609226914
-2021,Denmark,DNK,Europe,G,Manufacture of rubber and plastics products,8578.0,1364.38,0.15905572394497552,0.02035440609226914
-2021,Denmark,DNK,Europe,H,Manufacture of other non-metallic mineral products,11306.0,1798.28,0.15905536883070936,0.02035440609226914
-2021,Denmark,DNK,Europe,I,Manufacture of basic metals,2418.0,384.6,0.15905707196029778,0.02035440609226914
-2021,Denmark,DNK,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",93416.0,14858.33,0.1590555151151837,0.02035440609226914
-2021,Denmark,DNK,Europe,K,Manufacture of transport equipment,4200.0,668.03,0.1590547619047619,0.02035440609226914
-2021,Denmark,DNK,Europe,L,"Manufacture of furniture, other manufacturing",22280.0,3543.76,0.1590556552962298,0.02035440609226914
 2000,Estonia,EST,Europe,A,"Manufacture of food products, beverages and tobacco products",176.19,162.46,0.9220727623588172,0.15210562805801567
 2000,Estonia,EST,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",140.15,129.23,0.9220834819835889,0.15210562805801567
 2000,Estonia,EST,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",129.82,119.71,0.9221229394546295,0.15210562805801567
@@ -4192,42 +3967,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Estonia,EST,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",992.61,1172.23,1.1809572742567573,0.15210562805801567
 2018,Estonia,EST,Europe,K,Manufacture of transport equipment,133.98,158.22,1.1809225257501121,0.15210562805801567
 2018,Estonia,EST,Europe,L,"Manufacture of furniture, other manufacturing",240.03,283.46,1.1809357163687872,0.15210562805801567
-2019,Estonia,EST,Europe,A,"Manufacture of food products, beverages and tobacco products",453.22,507.37,1.1194783990115176,0.15210562805801567
-2019,Estonia,EST,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",188.54,211.07,1.119497188925427,0.15210562805801567
-2019,Estonia,EST,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",579.7,648.96,1.1194755908228393,0.15210562805801567
-2019,Estonia,EST,Europe,D,Manufacture of paper products and printing,145.75,163.16,1.119451114922813,0.15210562805801567
-2019,Estonia,EST,Europe,E,Manufacture of coke and refined petroleum products,104.83,117.35,1.119431460459792,0.15210562805801567
-2019,Estonia,EST,Europe,F,Manufacturing of chemicals and pharmaceutical products,128.29,143.61,1.1194169459817602,0.15210562805801567
-2019,Estonia,EST,Europe,G,Manufacture of rubber and plastics products,141.38,158.27,1.1194652709011177,0.15210562805801567
-2019,Estonia,EST,Europe,H,Manufacture of other non-metallic mineral products,183.29,205.19,1.119482786840526,0.15210562805801567
-2019,Estonia,EST,Europe,I,Manufacture of basic metals,33.02,36.97,1.1196244700181706,0.15210562805801567
-2019,Estonia,EST,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1043.2,1167.85,1.1194881134969323,0.15210562805801567
-2019,Estonia,EST,Europe,K,Manufacture of transport equipment,120.77,135.2,1.1194833153928956,0.15210562805801567
-2019,Estonia,EST,Europe,L,"Manufacture of furniture, other manufacturing",254.58,285.0,1.1194909262314399,0.15210562805801567
-2020,Estonia,EST,Europe,A,"Manufacture of food products, beverages and tobacco products",459.6,524.95,1.1421888598781549,0.15210562805801567
-2020,Estonia,EST,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",180.83,206.54,1.1421777359951335,0.15210562805801567
-2020,Estonia,EST,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",615.59,703.12,1.142188794489839,0.15210562805801567
-2020,Estonia,EST,Europe,D,Manufacture of paper products and printing,129.16,147.52,1.1421492722205018,0.15210562805801567
-2020,Estonia,EST,Europe,E,Manufacture of coke and refined petroleum products,83.32,95.17,1.1422227556409026,0.15210562805801567
-2020,Estonia,EST,Europe,F,Manufacturing of chemicals and pharmaceutical products,138.05,157.68,1.1421948569358928,0.15210562805801567
-2020,Estonia,EST,Europe,G,Manufacture of rubber and plastics products,141.01,161.06,1.1421884972696972,0.15210562805801567
-2020,Estonia,EST,Europe,H,Manufacture of other non-metallic mineral products,170.69,194.96,1.142187591540219,0.15210562805801567
-2020,Estonia,EST,Europe,I,Manufacture of basic metals,32.86,37.53,1.1421180766889836,0.15210562805801567
-2020,Estonia,EST,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1001.89,1144.36,1.142201239657048,0.15210562805801567
-2020,Estonia,EST,Europe,K,Manufacture of transport equipment,126.02,143.94,1.1421996508490715,0.15210562805801567
-2020,Estonia,EST,Europe,L,"Manufacture of furniture, other manufacturing",250.3,285.89,1.1421893727526966,0.15210562805801567
-2021,Estonia,EST,Europe,A,"Manufacture of food products, beverages and tobacco products",493.62,583.82,1.1827316559296626,0.15210562805801567
-2021,Estonia,EST,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",177.38,209.79,1.1827150749802684,0.15210562805801567
-2021,Estonia,EST,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",788.24,932.28,1.1827362224703135,0.15210562805801567
-2021,Estonia,EST,Europe,D,Manufacture of paper products and printing,144.87,171.34,1.1827155380686132,0.15210562805801567
-2021,Estonia,EST,Europe,E,Manufacture of coke and refined petroleum products,104.65,123.77,1.1827042522694695,0.15210562805801567
-2021,Estonia,EST,Europe,F,Manufacturing of chemicals and pharmaceutical products,158.06,186.95,1.1827786916360874,0.15210562805801567
-2021,Estonia,EST,Europe,G,Manufacture of rubber and plastics products,162.56,192.27,1.1827632874015748,0.15210562805801567
-2021,Estonia,EST,Europe,H,Manufacture of other non-metallic mineral products,185.4,219.28,1.182740021574973,0.15210562805801567
-2021,Estonia,EST,Europe,I,Manufacture of basic metals,39.43,46.64,1.1828556936342887,0.15210562805801567
-2021,Estonia,EST,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1126.79,1332.69,1.182731476140186,0.15210562805801567
-2021,Estonia,EST,Europe,K,Manufacture of transport equipment,132.97,157.27,1.1827479882680305,0.15210562805801567
-2021,Estonia,EST,Europe,L,"Manufacture of furniture, other manufacturing",297.84,352.27,1.1827491270480794,0.15210562805801567
 2000,Finland,FIN,Europe,A,"Manufacture of food products, beverages and tobacco products",1899.0,1753.94,0.9236124275934703,0.1525925312166336
 2000,Finland,FIN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",577.0,532.92,0.9236048526863084,0.1525925312166336
 2000,Finland,FIN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1411.0,1303.22,0.9236144578313253,0.1525925312166336
@@ -4456,42 +4195,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Finland,FIN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",13409.0,15835.42,1.1809545827429337,0.1525925312166336
 2018,Finland,FIN,Europe,K,Manufacture of transport equipment,1178.0,1391.16,1.1809507640067913,0.1525925312166336
 2018,Finland,FIN,Europe,L,"Manufacture of furniture, other manufacturing",669.0,790.06,1.1809566517189836,0.1525925312166336
-2019,Finland,FIN,Europe,A,"Manufacture of food products, beverages and tobacco products",2855.0,3196.1,1.1194746059544658,0.1525925312166336
-2019,Finland,FIN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",396.0,443.31,1.119469696969697,0.1525925312166336
-2019,Finland,FIN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1234.0,1381.43,1.1194732576985413,0.1525925312166336
-2019,Finland,FIN,Europe,D,Manufacture of paper products and printing,3740.0,4186.84,1.119475935828877,0.1525925312166336
-2019,Finland,FIN,Europe,E,Manufacture of coke and refined petroleum products,810.0,906.77,1.119469135802469,0.1525925312166336
-2019,Finland,FIN,Europe,F,Manufacturing of chemicals and pharmaceutical products,4474.0,5008.53,1.1194747429593204,0.1525925312166336
-2019,Finland,FIN,Europe,G,Manufacture of rubber and plastics products,1068.0,1195.6,1.1194756554307115,0.1525925312166336
-2019,Finland,FIN,Europe,H,Manufacture of other non-metallic mineral products,1169.0,1308.67,1.1194781864841745,0.1525925312166336
-2019,Finland,FIN,Europe,I,Manufacture of basic metals,1434.0,1605.33,1.1194769874476986,0.1525925312166336
-2019,Finland,FIN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",13978.0,15648.02,1.119474889111461,0.1525925312166336
-2019,Finland,FIN,Europe,K,Manufacture of transport equipment,1096.0,1226.94,1.119470802919708,0.1525925312166336
-2019,Finland,FIN,Europe,L,"Manufacture of furniture, other manufacturing",681.0,762.36,1.1194713656387665,0.1525925312166336
-2020,Finland,FIN,Europe,A,"Manufacture of food products, beverages and tobacco products",2948.0,3367.2,1.1421981004070556,0.1525925312166336
-2020,Finland,FIN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",420.0,479.72,1.1421904761904762,0.1525925312166336
-2020,Finland,FIN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1188.0,1356.93,1.1421969696969698,0.1525925312166336
-2020,Finland,FIN,Europe,D,Manufacture of paper products and printing,2920.0,3335.22,1.1421986301369862,0.1525925312166336
-2020,Finland,FIN,Europe,E,Manufacture of coke and refined petroleum products,516.0,589.37,1.1421899224806202,0.1525925312166336
-2020,Finland,FIN,Europe,F,Manufacturing of chemicals and pharmaceutical products,4344.0,4961.7,1.142196132596685,0.1525925312166336
-2020,Finland,FIN,Europe,G,Manufacture of rubber and plastics products,1052.0,1201.59,1.1421958174904943,0.1525925312166336
-2020,Finland,FIN,Europe,H,Manufacture of other non-metallic mineral products,1116.0,1274.69,1.1421953405017922,0.1525925312166336
-2020,Finland,FIN,Europe,I,Manufacture of basic metals,1307.0,1492.85,1.1421958684009181,0.1525925312166336
-2020,Finland,FIN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",14752.0,16849.68,1.1421963123644252,0.1525925312166336
-2020,Finland,FIN,Europe,K,Manufacture of transport equipment,1101.0,1257.56,1.1421980018165303,0.1525925312166336
-2020,Finland,FIN,Europe,L,"Manufacture of furniture, other manufacturing",646.0,737.86,1.1421981424148606,0.1525925312166336
-2021,Finland,FIN,Europe,A,"Manufacture of food products, beverages and tobacco products",2919.0,3452.42,1.1827406646111682,0.1525925312166336
-2021,Finland,FIN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",442.0,522.77,1.182737556561086,0.1525925312166336
-2021,Finland,FIN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2005.0,2371.39,1.1827381546134663,0.1525925312166336
-2021,Finland,FIN,Europe,D,Manufacture of paper products and printing,3358.0,3971.64,1.1827397260273973,0.1525925312166336
-2021,Finland,FIN,Europe,E,Manufacture of coke and refined petroleum products,449.0,531.05,1.1827394209354118,0.1525925312166336
-2021,Finland,FIN,Europe,F,Manufacturing of chemicals and pharmaceutical products,4331.0,5122.45,1.1827407065342876,0.1525925312166336
-2021,Finland,FIN,Europe,G,Manufacture of rubber and plastics products,1177.0,1392.09,1.1827442650807136,0.1525925312166336
-2021,Finland,FIN,Europe,H,Manufacture of other non-metallic mineral products,1061.0,1254.89,1.182742695570217,0.1525925312166336
-2021,Finland,FIN,Europe,I,Manufacture of basic metals,1669.0,1973.99,1.1827381665668064,0.1525925312166336
-2021,Finland,FIN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",15979.0,18899.02,1.1827410976907191,0.1525925312166336
-2021,Finland,FIN,Europe,K,Manufacture of transport equipment,1179.0,1394.45,1.1827396098388465,0.1525925312166336
-2021,Finland,FIN,Europe,L,"Manufacture of furniture, other manufacturing",651.0,769.96,1.1827342549923197,0.1525925312166336
 2000,France,FRA,Europe,A,"Manufacture of food products, beverages and tobacco products",34268.0,31650.36,0.9236126998949458,0.15462028791901913
 2000,France,FRA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",8002.0,7390.75,0.9236128467883029,0.15462028791901913
 2000,France,FRA,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3287.0,3035.91,0.9236111956191055,0.15462028791901913
@@ -4720,35 +4423,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,France,FRA,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",51028.0,60261.73,1.1809541820177158,0.15462028791901913
 2018,France,FRA,Europe,K,Manufacture of transport equipment,32644.0,38551.06,1.180953927214802,0.15462028791901913
 2018,France,FRA,Europe,L,"Manufacture of furniture, other manufacturing",7107.0,8393.04,1.1809539890249052,0.15462028791901913
-2019,France,FRA,Europe,A,"Manufacture of food products, beverages and tobacco products",46216.0,51737.65,1.1194748571923143,0.15462028791901913
-2019,France,FRA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",5846.0,6544.45,1.1194748546014368,0.15462028791901913
-2019,France,FRA,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3290.0,3683.07,1.1194741641337387,0.15462028791901913
-2019,France,FRA,Europe,D,Manufacture of paper products and printing,8232.0,9215.52,1.119475218658892,0.15462028791901913
-2019,France,FRA,Europe,E,Manufacture of coke and refined petroleum products,1813.0,2029.61,1.1194760066188638,0.15462028791901913
-2019,France,FRA,Europe,F,Manufacturing of chemicals and pharmaceutical products,33728.0,37757.64,1.1194746204933586,0.15462028791901913
-2019,France,FRA,Europe,G,Manufacture of rubber and plastics products,11484.0,12856.05,1.1194749216300939,0.15462028791901913
-2019,France,FRA,Europe,H,Manufacture of other non-metallic mineral products,8623.0,9653.23,1.119474660790908,0.15462028791901913
-2019,France,FRA,Europe,I,Manufacture of basic metals,4936.0,5525.73,1.11947528363047,0.15462028791901913
-2019,France,FRA,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",53363.0,59738.53,1.1194747296816145,0.15462028791901913
-2019,France,FRA,Europe,K,Manufacture of transport equipment,34303.0,38401.35,1.1194749730344284,0.15462028791901913
-2019,France,FRA,Europe,L,"Manufacture of furniture, other manufacturing",7364.0,8243.81,1.1194744703965236,0.15462028791901913
-2020,France,FRA,Europe,A,"Manufacture of food products, beverages and tobacco products",45750.0,52255.5,1.1421967213114754,0.15462028791901913
-2020,France,FRA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",5212.0,5953.13,1.1421968534151958,0.15462028791901913
-2020,France,FRA,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3089.0,3528.25,1.1421981223696989,0.15462028791901913
-2020,France,FRA,Europe,D,Manufacture of paper products and printing,7328.0,8370.02,1.1421970524017468,0.15462028791901913
-2020,France,FRA,Europe,E,Manufacture of coke and refined petroleum products,1133.0,1294.11,1.142197705207414,0.15462028791901913
-2020,France,FRA,Europe,F,Manufacturing of chemicals and pharmaceutical products,31589.0,36080.85,1.14219665073285,0.15462028791901913
-2020,France,FRA,Europe,G,Manufacture of rubber and plastics products,10679.0,12197.52,1.1421968349096359,0.15462028791901913
-2020,France,FRA,Europe,H,Manufacture of other non-metallic mineral products,8033.0,9175.27,1.1421971866052534,0.15462028791901913
-2020,France,FRA,Europe,I,Manufacture of basic metals,3200.0,3655.03,1.142196875,0.15462028791901913
-2020,France,FRA,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",47312.0,54039.6,1.1421964829218803,0.15462028791901913
-2020,France,FRA,Europe,K,Manufacture of transport equipment,20729.0,23676.59,1.14219643977037,0.15462028791901913
-2020,France,FRA,Europe,L,"Manufacture of furniture, other manufacturing",7354.0,8399.71,1.1421960837639378,0.15462028791901913
-2021,France,FRA,Europe,A,"Manufacture of food products, beverages and tobacco products",42696.0,50498.29,1.1827405377552933,0.15462028791901913
-2021,France,FRA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",5600.0,6623.35,1.1827410714285715,0.15462028791901913
-2021,France,FRA,Europe,E,Manufacture of coke and refined petroleum products,3392.0,4011.86,1.182741745283019,0.15462028791901913
-2021,France,FRA,Europe,F,Manufacturing of chemicals and pharmaceutical products,35317.0,41770.84,1.1827403233570235,0.15462028791901913
-2021,France,FRA,Europe,K,Manufacture of transport equipment,18556.0,21946.93,1.1827403535244665,0.15462028791901913
 2000,Germany,DEU,Europe,A,"Manufacture of food products, beverages and tobacco products",35897.0,33154.92,0.9236125581524918,0.1561193215100447
 2000,Germany,DEU,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",9038.0,8347.61,0.9236125248948883,0.1561193215100447
 2000,Germany,DEU,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",7319.0,6759.92,0.9236125153709523,0.1561193215100447
@@ -4977,30 +4651,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Germany,DEU,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",253553.0,299434.44,1.1809540411669355,0.1561193215100447
 2018,Germany,DEU,Europe,K,Manufacture of transport equipment,152965.0,180644.64,1.1809540744614782,0.1561193215100447
 2018,Germany,DEU,Europe,L,"Manufacture of furniture, other manufacturing",25438.0,30041.11,1.1809540844406008,0.1561193215100447
-2019,Germany,DEU,Europe,A,"Manufacture of food products, beverages and tobacco products",47845.0,53561.27,1.119474762253109,0.1561193215100447
-2019,Germany,DEU,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",7483.0,8377.03,1.119474809568355,0.1561193215100447
-2019,Germany,DEU,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",7861.0,8800.19,1.1194746215494213,0.1561193215100447
-2019,Germany,DEU,Europe,D,Manufacture of paper products and printing,18492.0,20701.33,1.119474908068354,0.1561193215100447
-2019,Germany,DEU,Europe,E,Manufacture of coke and refined petroleum products,5495.0,6151.51,1.11947406733394,0.1561193215100447
-2019,Germany,DEU,Europe,F,Manufacturing of chemicals and pharmaceutical products,72999.0,81720.54,1.1194747873258537,0.1561193215100447
-2019,Germany,DEU,Europe,G,Manufacture of rubber and plastics products,30784.0,34461.91,1.1194747271309773,0.1561193215100447
-2019,Germany,DEU,Europe,H,Manufacture of other non-metallic mineral products,19012.0,21283.46,1.1194750683778665,0.1561193215100447
-2019,Germany,DEU,Europe,I,Manufacture of basic metals,20815.0,23301.87,1.119474897910161,0.1561193215100447
-2019,Germany,DEU,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",251368.0,281400.16,1.1194748734922504,0.1561193215100447
-2019,Germany,DEU,Europe,K,Manufacture of transport equipment,153386.0,171711.77,1.1194748542891788,0.1561193215100447
-2019,Germany,DEU,Europe,L,"Manufacture of furniture, other manufacturing",26731.0,29924.68,1.1194747671243126,0.1561193215100447
-2020,Germany,DEU,Europe,A,"Manufacture of food products, beverages and tobacco products",50970.0,58217.76,1.1421965862271926,0.1561193215100447
-2020,Germany,DEU,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",6803.0,7770.36,1.1421960899603116,0.1561193215100447
-2020,Germany,DEU,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",9156.0,10457.95,1.142196373962429,0.1561193215100447
-2020,Germany,DEU,Europe,D,Manufacture of paper products and printing,18208.0,20797.12,1.1421968365553603,0.1561193215100447
-2020,Germany,DEU,Europe,E,Manufacture of coke and refined petroleum products,2019.0,2306.09,1.142194155522536,0.1561193215100447
-2020,Germany,DEU,Europe,F,Manufacturing of chemicals and pharmaceutical products,74440.0,85025.11,1.1421965341214402,0.1561193215100447
-2020,Germany,DEU,Europe,G,Manufacture of rubber and plastics products,29735.0,33963.22,1.1421967378510174,0.1561193215100447
-2020,Germany,DEU,Europe,H,Manufacture of other non-metallic mineral products,19182.0,21909.62,1.1421968512146803,0.1561193215100447
-2020,Germany,DEU,Europe,I,Manufacture of basic metals,17990.0,20548.12,1.1421967759866591,0.1561193215100447
-2020,Germany,DEU,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",232795.0,265897.66,1.142196610751949,0.1561193215100447
-2020,Germany,DEU,Europe,K,Manufacture of transport equipment,131938.0,150699.14,1.1421966378147312,0.1561193215100447
-2020,Germany,DEU,Europe,L,"Manufacture of furniture, other manufacturing",26936.0,30766.21,1.1421966884466883,0.1561193215100447
 2000,Greece,GRC,Europe,A,"Manufacture of food products, beverages and tobacco products",2917.56,2720.75,0.9325429468459946,0.15185226920826106
 2000,Greece,GRC,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1544.52,1440.33,0.9325421490171704,0.15185226920826106
 2000,Greece,GRC,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",300.0,279.76,0.9325333333333333,0.15185226920826106
@@ -5229,42 +4879,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Greece,GRC,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1950.46,2303.4,1.1809521856382597,0.15185226920826106
 2018,Greece,GRC,Europe,K,Manufacture of transport equipment,446.87,527.73,1.1809474791326338,0.15185226920826106
 2018,Greece,GRC,Europe,L,"Manufacture of furniture, other manufacturing",319.32,377.1,1.180947012401353,0.15185226920826106
-2019,Greece,GRC,Europe,A,"Manufacture of food products, beverages and tobacco products",5028.46,5629.23,1.1194739542523953,0.15185226920826106
-2019,Greece,GRC,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",472.02,528.41,1.1194652768950468,0.15185226920826106
-2019,Greece,GRC,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",99.3,111.16,1.119436052366566,0.15185226920826106
-2019,Greece,GRC,Europe,D,Manufacture of paper products and printing,662.03,741.12,1.1194658852317871,0.15185226920826106
-2019,Greece,GRC,Europe,E,Manufacture of coke and refined petroleum products,517.09,578.87,1.1194763000638186,0.15185226920826106
-2019,Greece,GRC,Europe,F,Manufacturing of chemicals and pharmaceutical products,1700.1,1903.22,1.1194753249808835,0.15185226920826106
-2019,Greece,GRC,Europe,G,Manufacture of rubber and plastics products,584.76,654.63,1.11948491688898,0.15185226920826106
-2019,Greece,GRC,Europe,H,Manufacture of other non-metallic mineral products,809.72,906.47,1.1194857481598577,0.15185226920826106
-2019,Greece,GRC,Europe,I,Manufacture of basic metals,1261.54,1412.26,1.1194730250328964,0.15185226920826106
-2019,Greece,GRC,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1987.62,2225.09,1.1194745474487076,0.15185226920826106
-2019,Greece,GRC,Europe,K,Manufacture of transport equipment,448.59,502.19,1.119485499008003,0.15185226920826106
-2019,Greece,GRC,Europe,L,"Manufacture of furniture, other manufacturing",327.09,366.17,1.1194778195603658,0.15185226920826106
-2020,Greece,GRC,Europe,A,"Manufacture of food products, beverages and tobacco products",5588.49,6383.15,1.1421958346530101,0.15185226920826106
-2020,Greece,GRC,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",442.33,505.22,1.142178916193792,0.15185226920826106
-2020,Greece,GRC,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",98.68,112.71,1.1421767328739358,0.15185226920826106
-2020,Greece,GRC,Europe,D,Manufacture of paper products and printing,740.61,845.93,1.142207099553071,0.15185226920826106
-2020,Greece,GRC,Europe,E,Manufacture of coke and refined petroleum products,340.9,389.37,1.1421824581988853,0.15185226920826106
-2020,Greece,GRC,Europe,F,Manufacturing of chemicals and pharmaceutical products,1858.08,2122.3,1.1422005511065187,0.15185226920826106
-2020,Greece,GRC,Europe,G,Manufacture of rubber and plastics products,595.06,679.68,1.1422041474809264,0.15185226920826106
-2020,Greece,GRC,Europe,H,Manufacture of other non-metallic mineral products,756.02,863.52,1.1421920055024999,0.15185226920826106
-2020,Greece,GRC,Europe,I,Manufacture of basic metals,1250.98,1428.86,1.1421925210634862,0.15185226920826106
-2020,Greece,GRC,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1942.15,2218.32,1.1421980794480344,0.15185226920826106
-2020,Greece,GRC,Europe,K,Manufacture of transport equipment,377.94,431.68,1.1421918823093613,0.15185226920826106
-2020,Greece,GRC,Europe,L,"Manufacture of furniture, other manufacturing",288.49,329.51,1.1421886373877776,0.15185226920826106
-2021,Greece,GRC,Europe,A,"Manufacture of food products, beverages and tobacco products",5682.48,6720.9,1.1827406343709086,0.15185226920826106
-2021,Greece,GRC,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",483.37,571.7,1.1827378612656971,0.15185226920826106
-2021,Greece,GRC,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",110.8,131.04,1.1826714801444043,0.15185226920826106
-2021,Greece,GRC,Europe,D,Manufacture of paper products and printing,751.68,889.05,1.182750638569604,0.15185226920826106
-2021,Greece,GRC,Europe,E,Manufacture of coke and refined petroleum products,713.63,844.04,1.1827417569328644,0.15185226920826106
-2021,Greece,GRC,Europe,F,Manufacturing of chemicals and pharmaceutical products,1946.29,2301.95,1.182737413232355,0.15185226920826106
-2021,Greece,GRC,Europe,G,Manufacture of rubber and plastics products,645.76,763.77,1.1827459117938552,0.15185226920826106
-2021,Greece,GRC,Europe,H,Manufacture of other non-metallic mineral products,858.1,1014.9,1.1827292856310452,0.15185226920826106
-2021,Greece,GRC,Europe,I,Manufacture of basic metals,1322.67,1564.37,1.1827364346360012,0.15185226920826106
-2021,Greece,GRC,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2372.17,2805.66,1.182739854226299,0.15185226920826106
-2021,Greece,GRC,Europe,K,Manufacture of transport equipment,332.64,393.43,1.1827501202501203,0.15185226920826106
-2021,Greece,GRC,Europe,L,"Manufacture of furniture, other manufacturing",333.57,394.53,1.1827502473243996,0.15185226920826106
 2000,Hong Kong,HKG,Asia,A,"Manufacture of food products, beverages and tobacco products",42477.46,5452.0,0.1283504239660281,0.00036083199893687825
 2000,Hong Kong,HKG,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",6717.55,862.2,0.1283503658327813,0.00036083199893687825
 2000,Hong Kong,HKG,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3770.93,484.0,0.12835030085416596,0.00036083199893687825
@@ -5683,42 +5297,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Hungary,HUN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2251470.0,8332.25,0.0037008043633714864,0.0007396786787750953
 2018,Hungary,HUN,Europe,K,Manufacture of transport equipment,1663118.0,6154.87,0.0037008017470798824,0.0007396786787750953
 2018,Hungary,HUN,Europe,L,"Manufacture of furniture, other manufacturing",254924.0,943.42,0.0037007892548367354,0.0007396786787750953
-2019,Hungary,HUN,Europe,A,"Manufacture of food products, beverages and tobacco products",807727.0,2778.94,0.003440444605665033,0.0007396786787750953
-2019,Hungary,HUN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",169993.0,584.85,0.003440435782649874,0.0007396786787750953
-2019,Hungary,HUN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",104726.0,360.3,0.0034404063938277027,0.0007396786787750953
-2019,Hungary,HUN,Europe,D,Manufacture of paper products and printing,263499.0,906.56,0.003440468464775957,0.0007396786787750953
-2019,Hungary,HUN,Europe,E,Manufacture of coke and refined petroleum products,274004.0,942.7,0.003440460723201121,0.0007396786787750953
-2019,Hungary,HUN,Europe,F,Manufacturing of chemicals and pharmaceutical products,943226.0,3245.11,0.003440437392523107,0.0007396786787750953
-2019,Hungary,HUN,Europe,G,Manufacture of rubber and plastics products,592498.0,2038.46,0.003440450431900192,0.0007396786787750953
-2019,Hungary,HUN,Europe,H,Manufacture of other non-metallic mineral products,318981.0,1097.44,0.0034404557011232647,0.0007396786787750953
-2019,Hungary,HUN,Europe,I,Manufacture of basic metals,222035.0,763.9,0.0034404485779269034,0.0007396786787750953
-2019,Hungary,HUN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2374947.0,8170.88,0.00344044730261349,0.0007396786787750953
-2019,Hungary,HUN,Europe,K,Manufacture of transport equipment,1668554.0,5740.57,0.003440446038905543,0.0007396786787750953
-2019,Hungary,HUN,Europe,L,"Manufacture of furniture, other manufacturing",297703.0,1024.23,0.003440442320030366,0.0007396786787750953
-2020,Hungary,HUN,Europe,A,"Manufacture of food products, beverages and tobacco products",856158.0,2779.76,0.003246783888020669,0.0007396786787750953
-2020,Hungary,HUN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",153818.0,499.41,0.0032467591569257177,0.0007396786787750953
-2020,Hungary,HUN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",114082.0,370.4,0.0032467873985378938,0.0007396786787750953
-2020,Hungary,HUN,Europe,D,Manufacture of paper products and printing,267990.0,870.1,0.0032467629389156313,0.0007396786787750953
-2020,Hungary,HUN,Europe,E,Manufacture of coke and refined petroleum products,181537.0,589.41,0.0032467761392994264,0.0007396786787750953
-2020,Hungary,HUN,Europe,F,Manufacturing of chemicals and pharmaceutical products,1052017.0,3415.68,0.0032467916392986042,0.0007396786787750953
-2020,Hungary,HUN,Europe,G,Manufacture of rubber and plastics products,624128.0,2026.41,0.0032467859157095983,0.0007396786787750953
-2020,Hungary,HUN,Europe,H,Manufacture of other non-metallic mineral products,306572.0,995.37,0.003246774004149107,0.0007396786787750953
-2020,Hungary,HUN,Europe,I,Manufacture of basic metals,202735.0,658.24,0.003246800009865095,0.0007396786787750953
-2020,Hungary,HUN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2454407.0,7968.94,0.0032467883280971736,0.0007396786787750953
-2020,Hungary,HUN,Europe,K,Manufacture of transport equipment,1576627.0,5118.97,0.0032467857013738824,0.0007396786787750953
-2020,Hungary,HUN,Europe,L,"Manufacture of furniture, other manufacturing",315632.0,1024.79,0.0032467873979824605,0.0007396786787750953
-2021,Hungary,HUN,Europe,A,"Manufacture of food products, beverages and tobacco products",902693.0,2977.8,0.003298795936159913,0.0007396786787750953
-2021,Hungary,HUN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",165338.0,545.42,0.0032988181785191546,0.0007396786787750953
-2021,Hungary,HUN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",150178.0,495.41,0.0032988187351010137,0.0007396786787750953
-2021,Hungary,HUN,Europe,D,Manufacture of paper products and printing,294712.0,972.2,0.0032988137571595324,0.0007396786787750953
-2021,Hungary,HUN,Europe,E,Manufacture of coke and refined petroleum products,338674.0,1117.22,0.003298806521906022,0.0007396786787750953
-2021,Hungary,HUN,Europe,F,Manufacturing of chemicals and pharmaceutical products,1267296.0,4180.56,0.003298803120975684,0.0007396786787750953
-2021,Hungary,HUN,Europe,G,Manufacture of rubber and plastics products,675170.0,2227.25,0.0032987988210376644,0.0007396786787750953
-2021,Hungary,HUN,Europe,H,Manufacture of other non-metallic mineral products,365399.0,1205.38,0.0032988048681030875,0.0007396786787750953
-2021,Hungary,HUN,Europe,I,Manufacture of basic metals,266477.0,879.05,0.0032987837599492637,0.0007396786787750953
-2021,Hungary,HUN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2740368.0,9039.92,0.0032987978256934837,0.0007396786787750953
-2021,Hungary,HUN,Europe,K,Manufacture of transport equipment,1518478.0,5009.15,0.0032987965581325507,0.0007396786787750953
-2021,Hungary,HUN,Europe,L,"Manufacture of furniture, other manufacturing",337063.0,1111.9,0.0032987898404749265,0.0007396786787750953
 2000,Iceland,ISL,Europe,A,"Manufacture of food products, beverages and tobacco products",32905.93,418.57,0.012720199672217136,0.002926876245476891
 2000,Iceland,ISL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",2407.87,30.63,0.012720786421193835,0.002926876245476891
 2000,Iceland,ISL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1379.63,17.55,0.012720801954147126,0.002926876245476891
@@ -5939,30 +5517,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Iceland,ISL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",43455.48,401.25,0.009233588030784608,0.002926876245476891
 2018,Iceland,ISL,Europe,K,Manufacture of transport equipment,1041.84,9.62,0.00923366351839054,0.002926876245476891
 2018,Iceland,ISL,Europe,L,"Manufacture of furniture, other manufacturing",18338.79,169.33,0.009233433612577493,0.002926876245476891
-2019,Iceland,ISL,Europe,A,"Manufacture of food products, beverages and tobacco products",128241.81,1045.96,0.00815615437742184,0.002926876245476891
-2019,Iceland,ISL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3276.1,26.72,0.008156039192942829,0.002926876245476891
-2019,Iceland,ISL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1870.1,15.25,0.008154644136677184,0.002926876245476891
-2019,Iceland,ISL,Europe,D,Manufacture of paper products and printing,4812.01,39.25,0.00815667465362707,0.002926876245476891
-2019,Iceland,ISL,Europe,E,Manufacture of coke and refined petroleum products,160.89,1.31,0.008142208962645286,0.002926876245476891
-2019,Iceland,ISL,Europe,F,Manufacturing of chemicals and pharmaceutical products,8112.42,66.16,0.008155396293584404,0.002926876245476891
-2019,Iceland,ISL,Europe,G,Manufacture of rubber and plastics products,3577.93,29.18,0.008155553630171637,0.002926876245476891
-2019,Iceland,ISL,Europe,H,Manufacture of other non-metallic mineral products,13024.84,106.23,0.008155954314985827,0.002926876245476891
-2019,Iceland,ISL,Europe,I,Manufacture of basic metals,14687.61,119.79,0.008155853811477837,0.002926876245476891
-2019,Iceland,ISL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",49410.19,403.0,0.008156212311670932,0.002926876245476891
-2019,Iceland,ISL,Europe,K,Manufacture of transport equipment,1013.24,8.26,0.00815206663771663,0.002926876245476891
-2019,Iceland,ISL,Europe,L,"Manufacture of furniture, other manufacturing",21092.63,172.03,0.00815592934593742,0.002926876245476891
-2020,Iceland,ISL,Europe,A,"Manufacture of food products, beverages and tobacco products",125815.03,929.06,0.007384332380638466,0.002926876245476891
-2020,Iceland,ISL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3155.8,23.3,0.007383230876481399,0.002926876245476891
-2020,Iceland,ISL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1688.52,12.47,0.007385165707246583,0.002926876245476891
-2020,Iceland,ISL,Europe,D,Manufacture of paper products and printing,3613.89,26.68,0.0073826264772862485,0.002926876245476891
-2020,Iceland,ISL,Europe,E,Manufacture of coke and refined petroleum products,155.23,1.15,0.007408361785737293,0.002926876245476891
-2020,Iceland,ISL,Europe,F,Manufacturing of chemicals and pharmaceutical products,9038.8,66.74,0.0073837235031198835,0.002926876245476891
-2020,Iceland,ISL,Europe,G,Manufacture of rubber and plastics products,3795.57,28.03,0.0073849250573695124,0.002926876245476891
-2020,Iceland,ISL,Europe,H,Manufacture of other non-metallic mineral products,12765.83,94.27,0.00738455705582794,0.002926876245476891
-2020,Iceland,ISL,Europe,I,Manufacture of basic metals,12605.95,93.09,0.007384608062065929,0.002926876245476891
-2020,Iceland,ISL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",47456.54,350.44,0.007384440585006829,0.002926876245476891
-2020,Iceland,ISL,Europe,K,Manufacture of transport equipment,1091.05,8.06,0.007387379130195684,0.002926876245476891
-2020,Iceland,ISL,Europe,L,"Manufacture of furniture, other manufacturing",21580.66,159.36,0.007384389541376399,0.002926876245476891
 2000,India,IND,Asia,A,"Manufacture of food products, beverages and tobacco products",312672.19,6957.3,0.022251099466185337,0.0030494643941323153
 2000,India,IND,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",450229.44,10018.1,0.02225109935058889,0.0030494643941323153
 2000,India,IND,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",105334.12,2343.8,0.02225109964368621,0.0030494643941323153
@@ -6609,33 +6163,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Ireland,IRL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",15426.98,18218.55,1.1809537576375932,0.1548138134364863
 2018,Ireland,IRL,Europe,K,Manufacture of transport equipment,401.97,474.71,1.18095877801826,0.1548138134364863
 2018,Ireland,IRL,Europe,L,"Manufacture of furniture, other manufacturing",4847.07,5724.16,1.1809526167354711,0.1548138134364863
-2019,Ireland,IRL,Europe,A,"Manufacture of food products, beverages and tobacco products",7550.25,8452.31,1.119474189596371,0.1548138134364863
-2019,Ireland,IRL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",151.46,169.55,1.1194374752409877,0.1548138134364863
-2019,Ireland,IRL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",332.75,372.51,1.1194891059353869,0.1548138134364863
-2019,Ireland,IRL,Europe,D,Manufacture of paper products and printing,501.39,561.29,1.1194678792955584,0.1548138134364863
-2019,Ireland,IRL,Europe,G,Manufacture of rubber and plastics products,640.13,716.61,1.1194757314920407,0.1548138134364863
-2019,Ireland,IRL,Europe,H,Manufacture of other non-metallic mineral products,986.15,1103.97,1.1194747249404249,0.1548138134364863
-2019,Ireland,IRL,Europe,I,Manufacture of basic metals,361.73,404.95,1.1194813811406297,0.1548138134364863
-2019,Ireland,IRL,Europe,K,Manufacture of transport equipment,383.12,428.89,1.1194664856963874,0.1548138134364863
-2019,Ireland,IRL,Europe,L,"Manufacture of furniture, other manufacturing",8741.65,9786.05,1.1194740123432074,0.1548138134364863
-2020,Ireland,IRL,Europe,A,"Manufacture of food products, beverages and tobacco products",7665.1,8755.05,1.1421964488395453,0.1548138134364863
-2020,Ireland,IRL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",114.83,131.16,1.1422102238091092,0.1548138134364863
-2020,Ireland,IRL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",299.07,341.59,1.1421740729595078,0.1548138134364863
-2020,Ireland,IRL,Europe,D,Manufacture of paper products and printing,516.44,589.88,1.1422043218960576,0.1548138134364863
-2020,Ireland,IRL,Europe,G,Manufacture of rubber and plastics products,692.08,790.49,1.1421945439833545,0.1548138134364863
-2020,Ireland,IRL,Europe,H,Manufacture of other non-metallic mineral products,998.96,1141.01,1.1421978858012332,0.1548138134364863
-2020,Ireland,IRL,Europe,I,Manufacture of basic metals,255.26,291.55,1.1421687690981746,0.1548138134364863
-2020,Ireland,IRL,Europe,K,Manufacture of transport equipment,325.01,371.22,1.1421802406079815,0.1548138134364863
-2020,Ireland,IRL,Europe,L,"Manufacture of furniture, other manufacturing",8114.59,9268.46,1.1421969563465313,0.1548138134364863
-2021,Ireland,IRL,Europe,A,"Manufacture of food products, beverages and tobacco products",9100.53,10763.56,1.1827399063571022,0.1548138134364863
-2021,Ireland,IRL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",136.65,161.63,1.1828027808269301,0.1548138134364863
-2021,Ireland,IRL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",358.46,423.96,1.1827261061206271,0.1548138134364863
-2021,Ireland,IRL,Europe,D,Manufacture of paper products and printing,519.8,614.79,1.1827433628318584,0.1548138134364863
-2021,Ireland,IRL,Europe,G,Manufacture of rubber and plastics products,791.71,936.39,1.1827436813984917,0.1548138134364863
-2021,Ireland,IRL,Europe,H,Manufacture of other non-metallic mineral products,1279.75,1513.61,1.182738816175034,0.1548138134364863
-2021,Ireland,IRL,Europe,I,Manufacture of basic metals,243.44,287.93,1.1827555044364115,0.1548138134364863
-2021,Ireland,IRL,Europe,K,Manufacture of transport equipment,316.68,374.55,1.1827396741189844,0.1548138134364863
-2021,Ireland,IRL,Europe,L,"Manufacture of furniture, other manufacturing",10420.0,12324.16,1.1827408829174664,0.1548138134364863
 2000,Italy,ITA,Europe,A,"Manufacture of food products, beverages and tobacco products",21936.9,20261.2,0.9236127255902156,0.1546202515913652
 2000,Italy,ITA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",27231.8,25151.63,0.9236124677766435,0.1546202515913652
 2000,Italy,ITA,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",6628.7,6122.35,0.9236124730339283,0.1546202515913652
@@ -6864,35 +6391,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Italy,ITA,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",92367.3,109081.53,1.180953973971308,0.1546202515913652
 2018,Italy,ITA,Europe,K,Manufacture of transport equipment,23101.5,27281.81,1.1809540506027747,0.1546202515913652
 2018,Italy,ITA,Europe,L,"Manufacture of furniture, other manufacturing",14353.4,16950.71,1.1809543383449217,0.1546202515913652
-2019,Italy,ITA,Europe,A,"Manufacture of food products, beverages and tobacco products",30255.9,33870.72,1.1194748792797438,0.1546202515913652
-2019,Italy,ITA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",26060.2,29173.74,1.1194749080974054,0.1546202515913652
-2019,Italy,ITA,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",4642.0,5196.6,1.1194743644980614,0.1546202515913652
-2019,Italy,ITA,Europe,D,Manufacture of paper products and printing,10556.8,11818.07,1.1194746514095182,0.1546202515913652
-2019,Italy,ITA,Europe,E,Manufacture of coke and refined petroleum products,1943.1,2175.25,1.1194740363336937,0.1546202515913652
-2019,Italy,ITA,Europe,F,Manufacturing of chemicals and pharmaceutical products,21990.5,24617.81,1.1194747731975172,0.1546202515913652
-2019,Italy,ITA,Europe,G,Manufacture of rubber and plastics products,13254.7,14838.3,1.1194746014621229,0.1546202515913652
-2019,Italy,ITA,Europe,H,Manufacture of other non-metallic mineral products,10393.2,11634.93,1.1194752338067198,0.1546202515913652
-2019,Italy,ITA,Europe,I,Manufacture of basic metals,8602.7,9630.51,1.119475281016425,0.1546202515913652
-2019,Italy,ITA,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",93320.2,104469.61,1.119474776093493,0.1546202515913652
-2019,Italy,ITA,Europe,K,Manufacture of transport equipment,22542.8,25236.1,1.1194749543091365,0.1546202515913652
-2019,Italy,ITA,Europe,L,"Manufacture of furniture, other manufacturing",14474.4,16203.73,1.1194750732327419,0.1546202515913652
-2020,Italy,ITA,Europe,A,"Manufacture of food products, beverages and tobacco products",29292.1,33457.34,1.1421967014997216,0.1546202515913652
-2020,Italy,ITA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",20525.3,23443.93,1.1421967035804592,0.1546202515913652
-2020,Italy,ITA,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",4069.8,4648.51,1.1421961767163005,0.1546202515913652
-2020,Italy,ITA,Europe,D,Manufacture of paper products and printing,9651.6,11024.03,1.1421971486592897,0.1546202515913652
-2020,Italy,ITA,Europe,E,Manufacture of coke and refined petroleum products,-226.7,-258.94,1.1422143802382003,0.1546202515913652
-2020,Italy,ITA,Europe,F,Manufacturing of chemicals and pharmaceutical products,22599.2,25812.73,1.142196626429254,0.1546202515913652
-2020,Italy,ITA,Europe,G,Manufacture of rubber and plastics products,12774.6,14591.11,1.1421970159535328,0.1546202515913652
-2020,Italy,ITA,Europe,H,Manufacture of other non-metallic mineral products,9556.5,10915.4,1.1421964108198608,0.1546202515913652
-2020,Italy,ITA,Europe,I,Manufacture of basic metals,7556.4,8630.89,1.1421960192684346,0.1546202515913652
-2020,Italy,ITA,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",86062.0,98299.73,1.1421966721665775,0.1546202515913652
-2020,Italy,ITA,Europe,K,Manufacture of transport equipment,19046.9,21755.3,1.1421963679128886,0.1546202515913652
-2020,Italy,ITA,Europe,L,"Manufacture of furniture, other manufacturing",12971.9,14816.46,1.1421965941766434,0.1546202515913652
-2021,Italy,ITA,Europe,A,"Manufacture of food products, beverages and tobacco products",28550.8,33768.19,1.182740588705045,0.1546202515913652
-2021,Italy,ITA,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",21255.2,25139.39,1.1827406940419285,0.1546202515913652
-2021,Italy,ITA,Europe,E,Manufacture of coke and refined petroleum products,532.5,629.81,1.1827417840375585,0.1546202515913652
-2021,Italy,ITA,Europe,F,Manufacturing of chemicals and pharmaceutical products,20783.9,24581.96,1.1827404866266675,0.1546202515913652
-2021,Italy,ITA,Europe,K,Manufacture of transport equipment,21365.8,25270.2,1.1827406415860862,0.1546202515913652
 2000,Japan,JPN,Asia,A,"Manufacture of food products, beverages and tobacco products",14176600.0,131550.45,0.009279407615366168,0.0012820665072948935
 2000,Japan,JPN,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",3306612.0,30683.4,0.009279407441816578,0.0012820665072948935
 2000,Japan,JPN,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1195615.12,11094.6,0.00927940757390221,0.0012820665072948935
@@ -7121,20 +6619,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Japan,JPN,Asia,J,"Manufacture of fabricated metal products, machinery and equipment",40165100.0,363737.94,0.00905606957283811,0.0012820665072948935
 2018,Japan,JPN,Asia,K,Manufacture of transport equipment,15190200.0,137563.52,0.009056070361153901,0.0012820665072948935
 2018,Japan,JPN,Asia,L,"Manufacture of furniture, other manufacturing",11338800.0,102684.96,0.009056069425336015,0.0012820665072948935
-2019,Japan,JPN,Asia,A,"Manufacture of food products, beverages and tobacco products",13554500.0,124342.18,0.009173498100261905,0.0012820665072948935
-2019,Japan,JPN,Asia,E,Manufacture of coke and refined petroleum products,5784500.0,53064.1,0.00917349814158527,0.0012820665072948935
-2019,Japan,JPN,Asia,H,Manufacture of other non-metallic mineral products,3148100.0,28879.09,0.009173498300562244,0.0012820665072948935
-2019,Japan,JPN,Asia,I,Manufacture of basic metals,9349700.0,85769.46,0.009173498614928822,0.0012820665072948935
-2019,Japan,JPN,Asia,J,"Manufacture of fabricated metal products, machinery and equipment",38342900.0,351738.53,0.009173498353019725,0.0012820665072948935
-2019,Japan,JPN,Asia,K,Manufacture of transport equipment,14089800.0,129252.76,0.009173498559241437,0.0012820665072948935
-2019,Japan,JPN,Asia,L,"Manufacture of furniture, other manufacturing",11512400.0,105608.98,0.009173498141134776,0.0012820665072948935
-2020,Japan,JPN,Asia,A,"Manufacture of food products, beverages and tobacco products",13210700.0,123725.14,0.00936552491540948,0.0012820665072948935
-2020,Japan,JPN,Asia,E,Manufacture of coke and refined petroleum products,5553400.0,52010.51,0.00936552562394209,0.0012820665072948935
-2020,Japan,JPN,Asia,H,Manufacture of other non-metallic mineral products,3053800.0,28600.44,0.009365524919772087,0.0012820665072948935
-2020,Japan,JPN,Asia,I,Manufacture of basic metals,8370900.0,78397.87,0.00936552461503542,0.0012820665072948935
-2020,Japan,JPN,Asia,J,"Manufacture of fabricated metal products, machinery and equipment",36143900.0,338506.59,0.009365524749681137,0.0012820665072948935
-2020,Japan,JPN,Asia,K,Manufacture of transport equipment,12874800.0,120579.26,0.00936552490135769,0.0012820665072948935
-2020,Japan,JPN,Asia,L,"Manufacture of furniture, other manufacturing",10803400.0,101179.51,0.009365524742210784,0.0012820665072948935
 2000,Kazakhstan,KAZ,Asia,A,"Manufacture of food products, beverages and tobacco products",52759.89,371.2,0.007035647724057044,0.0016561080727434422
 2000,Kazakhstan,KAZ,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",3112.72,21.9,0.007035647279549718,0.0016561080727434422
 2000,Kazakhstan,KAZ,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",767.52,5.4,0.007035647279549719,0.0016561080727434422
@@ -8187,24 +7671,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Malta,MLT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",247.77,292.41,1.1801670904467854,0.14145514102233148
 2018,Malta,MLT,Europe,K,Manufacture of transport equipment,69.94,82.54,1.1801544180726338,0.14145514102233148
 2018,Malta,MLT,Europe,L,"Manufacture of furniture, other manufacturing",145.01,171.13,1.1801255085856148,0.14145514102233148
-2019,Malta,MLT,Europe,A,"Manufacture of food products, beverages and tobacco products",151.91,170.04,1.119346981765519,0.14145514102233148
-2019,Malta,MLT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",13.06,14.62,1.119448698315467,0.14145514102233148
-2019,Malta,MLT,Europe,F,Manufacturing of chemicals and pharmaceutical products,67.66,75.74,1.1194206325746379,0.14145514102233148
-2019,Malta,MLT,Europe,I,Manufacture of basic metals,0.76,0.85,1.118421052631579,0.14145514102233148
-2019,Malta,MLT,Europe,K,Manufacture of transport equipment,67.26,75.29,1.1193874516800475,0.14145514102233148
-2019,Malta,MLT,Europe,L,"Manufacture of furniture, other manufacturing",159.13,178.13,1.1193992333312386,0.14145514102233148
-2020,Malta,MLT,Europe,A,"Manufacture of food products, beverages and tobacco products",142.14,161.97,1.1395103419164205,0.14145514102233148
-2020,Malta,MLT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",12.36,14.08,1.13915857605178,0.14145514102233148
-2020,Malta,MLT,Europe,F,Manufacturing of chemicals and pharmaceutical products,76.26,86.9,1.139522685549436,0.14145514102233148
-2020,Malta,MLT,Europe,I,Manufacture of basic metals,1.33,1.52,1.1428571428571428,0.14145514102233148
-2020,Malta,MLT,Europe,K,Manufacture of transport equipment,71.82,81.84,1.1395154553049291,0.14145514102233148
-2020,Malta,MLT,Europe,L,"Manufacture of furniture, other manufacturing",152.17,173.4,1.1395150161004142,0.14145514102233148
-2021,Malta,MLT,Europe,A,"Manufacture of food products, beverages and tobacco products",149.04,176.26,1.1826355340848094,0.14145514102233148
-2021,Malta,MLT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",15.05,17.8,1.1827242524916943,0.14145514102233148
-2021,Malta,MLT,Europe,F,Manufacturing of chemicals and pharmaceutical products,66.24,78.34,1.182669082125604,0.14145514102233148
-2021,Malta,MLT,Europe,I,Manufacture of basic metals,1.67,1.97,1.1796407185628743,0.14145514102233148
-2021,Malta,MLT,Europe,K,Manufacture of transport equipment,80.44,95.14,1.1827449030333168,0.14145514102233148
-2021,Malta,MLT,Europe,L,"Manufacture of furniture, other manufacturing",151.41,179.06,1.1826167360147943,0.14145514102233148
 2000,Mexico,MEX,South America,A,"Manufacture of food products, beverages and tobacco products",270353.88,28592.06,0.1057579051574921,0.018461919292168425
 2000,Mexico,MEX,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",93622.1,9901.28,0.10575793535927949,0.018461919292168425
 2000,Mexico,MEX,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16331.41,1727.18,0.10575816784956106,0.018461919292168425
@@ -8433,30 +7899,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Mexico,MEX,South America,J,"Manufacture of fabricated metal products, machinery and equipment",827289.75,42988.72,0.05196331756799839,0.018461919292168425
 2018,Mexico,MEX,South America,K,Manufacture of transport equipment,912028.56,47392.04,0.051963328867683706,0.018461919292168425
 2018,Mexico,MEX,South America,L,"Manufacture of furniture, other manufacturing",118364.76,6150.63,0.05196335463359196,0.018461919292168425
-2019,Mexico,MEX,South America,A,"Manufacture of food products, beverages and tobacco products",1117701.0,58021.3,0.05191128933408846,0.018461919292168425
-2019,Mexico,MEX,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",160464.5,8329.92,0.051911295021640304,0.018461919292168425
-2019,Mexico,MEX,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",34177.59,1774.2,0.051911208484858064,0.018461919292168425
-2019,Mexico,MEX,South America,D,Manufacture of paper products and printing,99290.85,5154.32,0.05191132919095767,0.018461919292168425
-2019,Mexico,MEX,South America,E,Manufacture of coke and refined petroleum products,137527.23,7139.22,0.051911319671020785,0.018461919292168425
-2019,Mexico,MEX,South America,F,Manufacturing of chemicals and pharmaceutical products,267259.94,13873.81,0.05191129654522859,0.018461919292168425
-2019,Mexico,MEX,South America,G,Manufacture of rubber and plastics products,134137.72,6963.26,0.051911274472236445,0.018461919292168425
-2019,Mexico,MEX,South America,H,Manufacture of other non-metallic mineral products,110279.3,5724.74,0.051911283441226044,0.018461919292168425
-2019,Mexico,MEX,South America,I,Manufacture of basic metals,236286.2,12265.92,0.051911283858304035,0.018461919292168425
-2019,Mexico,MEX,South America,J,"Manufacture of fabricated metal products, machinery and equipment",864633.0,44884.21,0.05191128490353711,0.018461919292168425
-2019,Mexico,MEX,South America,K,Manufacture of transport equipment,934875.12,48530.57,0.051911286290301534,0.018461919292168425
-2019,Mexico,MEX,South America,L,"Manufacture of furniture, other manufacturing",117441.61,6096.55,0.051911328531684814,0.018461919292168425
-2020,Mexico,MEX,South America,A,"Manufacture of food products, beverages and tobacco products",1145888.38,53332.84,0.04654278805061275,0.018461919292168425
-2020,Mexico,MEX,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",116620.99,5427.87,0.04654282217978084,0.018461919292168425
-2020,Mexico,MEX,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",31816.74,1480.84,0.04654279476778576,0.018461919292168425
-2020,Mexico,MEX,South America,D,Manufacture of paper products and printing,95666.34,4452.57,0.04654270248030812,0.018461919292168425
-2020,Mexico,MEX,South America,E,Manufacture of coke and refined petroleum products,143179.48,6663.97,0.04654277274927943,0.018461919292168425
-2020,Mexico,MEX,South America,F,Manufacturing of chemicals and pharmaceutical products,268119.25,12479.01,0.04654276035756478,0.018461919292168425
-2020,Mexico,MEX,South America,G,Manufacture of rubber and plastics products,126201.43,5873.77,0.046542816511667105,0.018461919292168425
-2020,Mexico,MEX,South America,H,Manufacture of other non-metallic mineral products,102787.15,4784.0,0.0465427828283983,0.018461919292168425
-2020,Mexico,MEX,South America,I,Manufacture of basic metals,236765.62,11019.73,0.04654277931061106,0.018461919292168425
-2020,Mexico,MEX,South America,J,"Manufacture of fabricated metal products, machinery and equipment",825152.75,38404.9,0.04654277647381046,0.018461919292168425
-2020,Mexico,MEX,South America,K,Manufacture of transport equipment,826379.31,38461.99,0.04654277948948165,0.018461919292168425
-2020,Mexico,MEX,South America,L,"Manufacture of furniture, other manufacturing",105966.05,4931.96,0.04654283140685153,0.018461919292168425
 2000,Morocco,MAR,Africa,A,"Manufacture of food products, beverages and tobacco products",19986.83,1881.0,0.09411197273404535,0.011462190297804622
 2000,Morocco,MAR,Africa,B,"Manufacture of textiles, wearing apparel, leather and related products",13304.36,1252.1,0.09411200538770748,0.011462190297804622
 2000,Morocco,MAR,Africa,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",770.36,72.5,0.0941118438132821,0.011462190297804622
@@ -9103,30 +8545,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Netherlands,NLD,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",26982.0,31864.5,1.1809539693128752,0.15611942137455742
 2018,Netherlands,NLD,Europe,K,Manufacture of transport equipment,4313.0,5093.45,1.1809529329932762,0.15611942137455742
 2018,Netherlands,NLD,Europe,L,"Manufacture of furniture, other manufacturing",5229.0,6175.21,1.1809542933639319,0.15611942137455742
-2019,Netherlands,NLD,Europe,A,"Manufacture of food products, beverages and tobacco products",16634.0,18621.34,1.1194745701575086,0.15611942137455742
-2019,Netherlands,NLD,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1185.0,1326.58,1.1194767932489451,0.15611942137455742
-2019,Netherlands,NLD,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1216.0,1361.28,1.1194736842105264,0.15611942137455742
-2019,Netherlands,NLD,Europe,D,Manufacture of paper products and printing,3435.0,3845.4,1.1194759825327512,0.15611942137455742
-2019,Netherlands,NLD,Europe,E,Manufacture of coke and refined petroleum products,1603.0,1794.52,1.1194759825327512,0.15611942137455742
-2019,Netherlands,NLD,Europe,F,Manufacturing of chemicals and pharmaceutical products,13671.0,15304.34,1.1194748006729573,0.15611942137455742
-2019,Netherlands,NLD,Europe,G,Manufacture of rubber and plastics products,3111.0,3482.69,1.1194760527161685,0.15611942137455742
-2019,Netherlands,NLD,Europe,H,Manufacture of other non-metallic mineral products,2229.0,2495.31,1.1194751009421264,0.15611942137455742
-2019,Netherlands,NLD,Europe,I,Manufacture of basic metals,2046.0,2290.45,1.119477028347996,0.15611942137455742
-2019,Netherlands,NLD,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",28878.0,32328.2,1.119475032897015,0.15611942137455742
-2019,Netherlands,NLD,Europe,K,Manufacture of transport equipment,4485.0,5020.84,1.1194738015607582,0.15611942137455742
-2019,Netherlands,NLD,Europe,L,"Manufacture of furniture, other manufacturing",5349.0,5988.07,1.1194746681622734,0.15611942137455742
-2020,Netherlands,NLD,Europe,A,"Manufacture of food products, beverages and tobacco products",17099.0,19530.42,1.1421966196853617,0.15611942137455742
-2020,Netherlands,NLD,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1080.0,1233.57,1.1421944444444443,0.15611942137455742
-2020,Netherlands,NLD,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1220.0,1393.48,1.1421967213114754,0.15611942137455742
-2020,Netherlands,NLD,Europe,D,Manufacture of paper products and printing,3354.0,3830.92,1.1421943947525344,0.15611942137455742
-2020,Netherlands,NLD,Europe,E,Manufacture of coke and refined petroleum products,1503.0,1716.72,1.1421956087824352,0.15611942137455742
-2020,Netherlands,NLD,Europe,F,Manufacturing of chemicals and pharmaceutical products,12624.0,14419.09,1.142196609632446,0.15611942137455742
-2020,Netherlands,NLD,Europe,G,Manufacture of rubber and plastics products,3101.0,3541.95,1.1421960657852306,0.15611942137455742
-2020,Netherlands,NLD,Europe,H,Manufacture of other non-metallic mineral products,2377.0,2715.0,1.1421960454354227,0.15611942137455742
-2020,Netherlands,NLD,Europe,I,Manufacture of basic metals,1663.0,1899.47,1.1421948286229706,0.15611942137455742
-2020,Netherlands,NLD,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",29248.0,33406.97,1.1421967314004378,0.15611942137455742
-2020,Netherlands,NLD,Europe,K,Manufacture of transport equipment,4187.0,4782.38,1.1421972772868403,0.15611942137455742
-2020,Netherlands,NLD,Europe,L,"Manufacture of furniture, other manufacturing",5277.0,6027.37,1.1421963236687511,0.15611942137455742
 2000,New Zealand,NZL,Oceania,A,"Manufacture of food products, beverages and tobacco products",6105.0,2773.55,0.45430794430794436,0.1141646515803207
 2000,New Zealand,NZL,Oceania,B,"Manufacture of textiles, wearing apparel, leather and related products",862.0,391.61,0.45430394431554527,0.1141646515803207
 2000,New Zealand,NZL,Oceania,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1071.0,486.56,0.45430438842203547,0.1141646515803207
@@ -9336,15 +8754,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,New Zealand,NZL,Oceania,I,Manufacture of basic metals,878.0,607.5,0.6919134396355353,0.1141646515803207
 2018,New Zealand,NZL,Oceania,J,"Manufacture of fabricated metal products, machinery and equipment",8093.84,5600.27,0.6919175570557362,0.1141646515803207
 2018,New Zealand,NZL,Oceania,K,Manufacture of transport equipment,1337.0,925.09,0.6919147344801795,0.1141646515803207
-2019,New Zealand,NZL,Oceania,A,"Manufacture of food products, beverages and tobacco products",12136.0,7995.39,0.6588159195781147,0.1141646515803207
-2019,New Zealand,NZL,Oceania,B,"Manufacture of textiles, wearing apparel, leather and related products",620.0,408.47,0.6588225806451613,0.1141646515803207
-2019,New Zealand,NZL,Oceania,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1653.0,1089.02,0.6588142770719904,0.1141646515803207
-2019,New Zealand,NZL,Oceania,D,Manufacture of paper products and printing,1304.0,859.1,0.658819018404908,0.1141646515803207
-2019,New Zealand,NZL,Oceania,E,Manufacture of coke and refined petroleum products,2666.0,1756.4,0.658814703675919,0.1141646515803207
-2019,New Zealand,NZL,Oceania,G,Manufacture of rubber and plastics products,1528.0,1006.67,0.658815445026178,0.1141646515803207
-2019,New Zealand,NZL,Oceania,H,Manufacture of other non-metallic mineral products,1145.0,754.34,0.6588122270742358,0.1141646515803207
-2019,New Zealand,NZL,Oceania,I,Manufacture of basic metals,593.0,390.68,0.6588195615514334,0.1141646515803207
-2019,New Zealand,NZL,Oceania,K,Manufacture of transport equipment,1357.0,894.01,0.6588135593220339,0.1141646515803207
 2000,North Macedonia,MKD,Europe,A,"Manufacture of food products, beverages and tobacco products",8219.0,124.71,0.015173378756539724,0.0025510509556686944
 2000,North Macedonia,MKD,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",4589.0,69.63,0.015173240357376334,0.0025510509556686944
 2000,North Macedonia,MKD,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",127.0,1.93,0.015196850393700787,0.0025510509556686944
@@ -9573,18 +8982,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,North Macedonia,MKD,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",15260.26,292.86,0.019191022957669137,0.0025510509556686944
 2018,North Macedonia,MKD,Europe,K,Manufacture of transport equipment,12460.09,239.12,0.019190872618095055,0.0025510509556686944
 2018,North Macedonia,MKD,Europe,L,"Manufacture of furniture, other manufacturing",2544.12,48.82,0.019189346414477306,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,A,"Manufacture of food products, beverages and tobacco products",20381.52,370.93,0.018199329588764725,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",17373.95,316.19,0.018199085412355855,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1160.4,21.12,0.018200620475698034,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,D,Manufacture of paper products and printing,3696.5,67.27,0.018198295685107533,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,E,Manufacture of coke and refined petroleum products,25.77,0.47,0.01823826154443151,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,F,Manufacturing of chemicals and pharmaceutical products,5838.0,106.25,0.01819972593353888,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,G,Manufacture of rubber and plastics products,2901.35,52.8,0.018198424871180657,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,H,Manufacture of other non-metallic mineral products,4727.5,86.04,0.018199894235854046,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,I,Manufacture of basic metals,4392.76,79.95,0.018200402480445094,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",15070.05,274.27,0.018199674188207737,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,K,Manufacture of transport equipment,13614.26,247.77,0.018199299851773067,0.0025510509556686944
-2019,North Macedonia,MKD,Europe,L,"Manufacture of furniture, other manufacturing",2779.04,50.58,0.01820052967931372,0.0025510509556686944
 2000,Norway,NOR,Europe,A,"Manufacture of food products, beverages and tobacco products",23005.0,2613.66,0.11361269289284938,0.023319978809548975
 2000,Norway,NOR,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",2203.0,250.29,0.11361325465274626,0.023319978809548975
 2000,Norway,NOR,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",5551.0,630.66,0.11361196180868312,0.023319978809548975
@@ -9813,16 +9210,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Norway,NOR,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",52584.0,6465.91,0.12296344895785791,0.023319978809548975
 2018,Norway,NOR,Europe,K,Manufacture of transport equipment,14163.0,1741.53,0.1229633552213514,0.023319978809548975
 2018,Norway,NOR,Europe,L,"Manufacture of furniture, other manufacturing",6295.0,774.05,0.12296266878474979,0.023319978809548975
-2019,Norway,NOR,Europe,A,"Manufacture of food products, beverages and tobacco products",50128.0,5696.36,0.11363629109479731,0.023319978809548975
-2019,Norway,NOR,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3122.0,354.77,0.11363549007046764,0.023319978809548975
-2019,Norway,NOR,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",8965.0,1018.75,0.11363636363636363,0.023319978809548975
-2019,Norway,NOR,Europe,D,Manufacture of paper products and printing,6725.0,764.21,0.1136371747211896,0.023319978809548975
-2019,Norway,NOR,Europe,G,Manufacture of rubber and plastics products,4801.0,545.57,0.11363674234534472,0.023319978809548975
-2019,Norway,NOR,Europe,H,Manufacture of other non-metallic mineral products,10398.0,1181.59,0.11363627620696287,0.023319978809548975
-2019,Norway,NOR,Europe,I,Manufacture of basic metals,10501.0,1193.3,0.11363679649557185,0.023319978809548975
-2019,Norway,NOR,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",56618.0,6433.87,0.1136364760323572,0.023319978809548975
-2019,Norway,NOR,Europe,K,Manufacture of transport equipment,17256.0,1960.91,0.11363641631896153,0.023319978809548975
-2019,Norway,NOR,Europe,L,"Manufacture of furniture, other manufacturing",6653.0,756.02,0.11363595370509544,0.023319978809548975
 2000,Peru,PER,South America,A,"Manufacture of food products, beverages and tobacco products",7705.57,2207.9,0.28653298847457104,0.030495450397732368
 2000,Peru,PER,South America,B,"Manufacture of textiles, wearing apparel, leather and related products",4330.04,1240.7,0.28653314980923966,0.030495450397732368
 2000,Peru,PER,South America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",956.26,274.0,0.28653295128939826,0.030495450397732368
@@ -10469,18 +9856,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Poland,POL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",82028.0,22711.63,0.2768765543472961,0.04528980092493909
 2018,Poland,POL,Europe,K,Manufacture of transport equipment,36813.0,10192.66,0.2768766468367153,0.04528980092493909
 2018,Poland,POL,Europe,L,"Manufacture of furniture, other manufacturing",21277.0,5891.1,0.27687643934765244,0.04528980092493909
-2019,Poland,POL,Europe,A,"Manufacture of food products, beverages and tobacco products",62174.0,16193.78,0.2604590343230289,0.04528980092493909
-2019,Poland,POL,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",11678.0,3041.64,0.26045898270251755,0.04528980092493909
-2019,Poland,POL,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",13702.0,3568.81,0.2604590570719603,0.04528980092493909
-2019,Poland,POL,Europe,D,Manufacture of paper products and printing,19885.0,5179.23,0.26045914005531806,0.04528980092493909
-2019,Poland,POL,Europe,E,Manufacture of coke and refined petroleum products,11993.0,3123.69,0.2604594346702243,0.04528980092493909
-2019,Poland,POL,Europe,F,Manufacturing of chemicals and pharmaceutical products,23715.0,6176.78,0.2604587813620072,0.04528980092493909
-2019,Poland,POL,Europe,G,Manufacture of rubber and plastics products,30521.0,7949.47,0.2604590282100849,0.04528980092493909
-2019,Poland,POL,Europe,H,Manufacture of other non-metallic mineral products,22416.0,5838.45,0.2604590471092077,0.04528980092493909
-2019,Poland,POL,Europe,I,Manufacture of basic metals,9754.0,2540.52,0.26045929874923107,0.04528980092493909
-2019,Poland,POL,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",90408.0,23547.59,0.2604591407840014,0.04528980092493909
-2019,Poland,POL,Europe,K,Manufacture of transport equipment,40172.0,10463.16,0.2604590261873942,0.04528980092493909
-2019,Poland,POL,Europe,L,"Manufacture of furniture, other manufacturing",23060.0,6006.19,0.260459236773634,0.04528980092493909
 2000,Portugal,PRT,Europe,A,"Manufacture of food products, beverages and tobacco products",2466.41,2278.0,0.9236096188387171,0.15932153828004098
 2000,Portugal,PRT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",3812.2,3521.0,0.9236136614028645,0.15932153828004098
 2000,Portugal,PRT,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",981.65,906.66,0.9236082106657159,0.15932153828004098
@@ -10709,18 +10084,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Portugal,PRT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",4641.63,5481.56,1.180955828017313,0.15932153828004098
 2018,Portugal,PRT,Europe,K,Manufacture of transport equipment,1985.36,2344.62,1.1809545875810936,0.15932153828004098
 2018,Portugal,PRT,Europe,L,"Manufacture of furniture, other manufacturing",1232.37,1455.37,1.1809521491110624,0.15932153828004098
-2019,Portugal,PRT,Europe,A,"Manufacture of food products, beverages and tobacco products",4309.97,4824.9,1.119474149472038,0.15932153828004098
-2019,Portugal,PRT,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",4134.59,4628.56,1.1194725474593612,0.15932153828004098
-2019,Portugal,PRT,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",1094.15,1224.87,1.1194717360508155,0.15932153828004098
-2019,Portugal,PRT,Europe,D,Manufacture of paper products and printing,1491.47,1669.67,1.1194794397473633,0.15932153828004098
-2019,Portugal,PRT,Europe,E,Manufacture of coke and refined petroleum products,430.47,481.9,1.11947406323321,0.15932153828004098
-2019,Portugal,PRT,Europe,F,Manufacturing of chemicals and pharmaceutical products,1484.64,1662.02,1.1194767755146027,0.15932153828004098
-2019,Portugal,PRT,Europe,G,Manufacture of rubber and plastics products,1375.23,1539.54,1.1194781963744247,0.15932153828004098
-2019,Portugal,PRT,Europe,H,Manufacture of other non-metallic mineral products,1653.1,1850.6,1.1194725062004718,0.15932153828004098
-2019,Portugal,PRT,Europe,I,Manufacture of basic metals,466.58,522.33,1.1194864760598398,0.15932153828004098
-2019,Portugal,PRT,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",4749.89,5317.39,1.1194764510336028,0.15932153828004098
-2019,Portugal,PRT,Europe,K,Manufacture of transport equipment,2074.57,2322.43,1.11947536115918,0.15932153828004098
-2019,Portugal,PRT,Europe,L,"Manufacture of furniture, other manufacturing",1302.83,1458.48,1.1194706907271095,0.15932153828004098
 2000,Romania,ROU,Europe,A,"Manufacture of food products, beverages and tobacco products",4919.1,2265.96,0.46064523998292367,0.058664350744419266
 2000,Romania,ROU,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",1851.7,852.98,0.46064697305179025,0.058664350744419266
 2000,Romania,ROU,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",633.7,291.91,0.46064383777812845,0.058664350744419266
@@ -10949,30 +10312,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Romania,ROU,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",31098.7,7889.84,0.2537032094589163,0.058664350744419266
 2018,Romania,ROU,Europe,K,Manufacture of transport equipment,27724.8,7033.87,0.25370318271006465,0.058664350744419266
 2018,Romania,ROU,Europe,L,"Manufacture of furniture, other manufacturing",6511.6,1652.01,0.25370262301124147,0.058664350744419266
-2019,Romania,ROU,Europe,A,"Manufacture of food products, beverages and tobacco products",45877.0,10825.34,0.235964426619003,0.058664350744419266
-2019,Romania,ROU,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",15072.8,3556.65,0.23596478424712067,0.058664350744419266
-2019,Romania,ROU,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",4869.8,1149.1,0.23596451599655013,0.058664350744419266
-2019,Romania,ROU,Europe,D,Manufacture of paper products and printing,4750.5,1120.95,0.2359646353015472,0.058664350744419266
-2019,Romania,ROU,Europe,E,Manufacture of coke and refined petroleum products,4963.1,1171.12,0.23596542483528435,0.058664350744419266
-2019,Romania,ROU,Europe,F,Manufacturing of chemicals and pharmaceutical products,6164.2,1454.53,0.23596411537588008,0.058664350744419266
-2019,Romania,ROU,Europe,G,Manufacture of rubber and plastics products,9155.7,2160.42,0.2359644811428946,0.058664350744419266
-2019,Romania,ROU,Europe,H,Manufacture of other non-metallic mineral products,6575.8,1551.66,0.23596520575443292,0.058664350744419266
-2019,Romania,ROU,Europe,I,Manufacture of basic metals,6079.8,1434.62,0.2359649988486463,0.058664350744419266
-2019,Romania,ROU,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",33979.3,8017.9,0.23596424882207695,0.058664350744419266
-2019,Romania,ROU,Europe,K,Manufacture of transport equipment,28016.5,6610.9,0.23596452090732245,0.058664350744419266
-2019,Romania,ROU,Europe,L,"Manufacture of furniture, other manufacturing",7835.1,1848.81,0.23596508021595128,0.058664350744419266
-2020,Romania,ROU,Europe,A,"Manufacture of food products, beverages and tobacco products",46832.8,11035.08,0.23562716728446728,0.058664350744419266
-2020,Romania,ROU,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",13866.5,3267.32,0.23562687051527062,0.058664350744419266
-2020,Romania,ROU,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",5421.8,1277.52,0.23562654468995536,0.058664350744419266
-2020,Romania,ROU,Europe,D,Manufacture of paper products and printing,4526.1,1066.48,0.23562890788979474,0.058664350744419266
-2020,Romania,ROU,Europe,E,Manufacture of coke and refined petroleum products,-1444.6,-340.39,0.23562923992800777,0.058664350744419266
-2020,Romania,ROU,Europe,F,Manufacturing of chemicals and pharmaceutical products,6569.7,1548.0,0.235627197588931,0.058664350744419266
-2020,Romania,ROU,Europe,G,Manufacture of rubber and plastics products,9411.7,2217.65,0.23562693243516047,0.058664350744419266
-2020,Romania,ROU,Europe,H,Manufacture of other non-metallic mineral products,7357.1,1733.53,0.23562680947656003,0.058664350744419266
-2020,Romania,ROU,Europe,I,Manufacture of basic metals,4725.7,1113.5,0.23562646803648138,0.058664350744419266
-2020,Romania,ROU,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",33500.2,7893.56,0.23562724998656728,0.058664350744419266
-2020,Romania,ROU,Europe,K,Manufacture of transport equipment,27294.2,6431.26,0.23562734940023888,0.058664350744419266
-2020,Romania,ROU,Europe,L,"Manufacture of furniture, other manufacturing",7408.4,1745.62,0.23562712596512067,0.058664350744419266
 2000,Russian Federation,RUS,Europe,A,"Manufacture of food products, beverages and tobacco products",195956.23,6966.3,0.03555028589802937,0.008833303499357716
 2000,Russian Federation,RUS,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",25316.25,900.0,0.03555028884609687,0.008833303499357716
 2000,Russian Federation,RUS,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",33251.49,1182.1,0.03555028661873498,0.008833303499357716
@@ -11190,30 +10529,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Russian Federation,RUS,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",1816071.75,28979.19,0.015957073281933933,0.008833303499357716
 2018,Russian Federation,RUS,Europe,K,Manufacture of transport equipment,1152121.12,18384.48,0.01595707229114939,0.008833303499357716
 2018,Russian Federation,RUS,Europe,L,"Manufacture of furniture, other manufacturing",180963.2,2887.64,0.015957056462308356,0.008833303499357716
-2019,Russian Federation,RUS,Europe,A,"Manufacture of food products, beverages and tobacco products",1964973.12,30352.86,0.01544695939657434,0.008833303499357716
-2019,Russian Federation,RUS,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",239182.09,3694.64,0.015446975983862337,0.008833303499357716
-2019,Russian Federation,RUS,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",266890.91,4122.65,0.015446947968366551,0.008833303499357716
-2019,Russian Federation,RUS,Europe,D,Manufacture of paper products and printing,406191.81,6274.42,0.015446938725820198,0.008833303499357716
-2019,Russian Federation,RUS,Europe,E,Manufacture of coke and refined petroleum products,2669102.0,41229.51,0.015446959314406119,0.008833303499357716
-2019,Russian Federation,RUS,Europe,F,Manufacturing of chemicals and pharmaceutical products,1277285.62,19730.18,0.01544696009338929,0.008833303499357716
-2019,Russian Federation,RUS,Europe,G,Manufacture of rubber and plastics products,256208.59,3957.64,0.015446945006800904,0.008833303499357716
-2019,Russian Federation,RUS,Europe,H,Manufacture of other non-metallic mineral products,550770.38,8507.73,0.015446963578542475,0.008833303499357716
-2019,Russian Federation,RUS,Europe,I,Manufacture of basic metals,2519010.5,38911.05,0.01544695824015025,0.008833303499357716
-2019,Russian Federation,RUS,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2044622.25,31583.19,0.015446956033076525,0.008833303499357716
-2019,Russian Federation,RUS,Europe,K,Manufacture of transport equipment,1236193.75,19095.43,0.015446955624876763,0.008833303499357716
-2019,Russian Federation,RUS,Europe,L,"Manufacture of furniture, other manufacturing",192104.0,2967.42,0.015446945404572523,0.008833303499357716
-2020,Russian Federation,RUS,Europe,A,"Manufacture of food products, beverages and tobacco products",2062992.0,28610.98,0.01386868199198058,0.008833303499357716
-2020,Russian Federation,RUS,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",249606.5,3461.71,0.013868669285455307,0.008833303499357716
-2020,Russian Federation,RUS,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",288676.69,4003.57,0.013868698577637149,0.008833303499357716
-2020,Russian Federation,RUS,Europe,D,Manufacture of paper products and printing,403736.81,5599.29,0.013868663597951348,0.008833303499357716
-2020,Russian Federation,RUS,Europe,E,Manufacture of coke and refined petroleum products,2041074.5,28307.01,0.01386868044258061,0.008833303499357716
-2020,Russian Federation,RUS,Europe,F,Manufacturing of chemicals and pharmaceutical products,1353597.25,18772.61,0.013868682135694352,0.008833303499357716
-2020,Russian Federation,RUS,Europe,G,Manufacture of rubber and plastics products,265228.81,3678.37,0.013868666831480336,0.008833303499357716
-2020,Russian Federation,RUS,Europe,H,Manufacture of other non-metallic mineral products,542870.69,7528.9,0.01386868021922495,0.008833303499357716
-2020,Russian Federation,RUS,Europe,I,Manufacture of basic metals,2881126.75,39957.43,0.013868681757926824,0.008833303499357716
-2020,Russian Federation,RUS,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",2081478.12,28867.36,0.013868682895403195,0.008833303499357716
-2020,Russian Federation,RUS,Europe,K,Manufacture of transport equipment,1207124.38,16741.22,0.013868678553240721,0.008833303499357716
-2020,Russian Federation,RUS,Europe,L,"Manufacture of furniture, other manufacturing",217094.91,3010.82,0.013868680753500855,0.008833303499357716
 2000,Saudi Arabia,SAU,Middle East,A,"Manufacture of food products, beverages and tobacco products",8340.0,2224.0,0.26666666666666666,3.21946204973866e-07
 2000,Saudi Arabia,SAU,Middle East,B,"Manufacture of textiles, wearing apparel, leather and related products",2055.75,548.2,0.26666666666666666,3.21946204973866e-07
 2000,Saudi Arabia,SAU,Middle East,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",704.25,187.8,0.26666666666666666,3.21946204973866e-07
@@ -11651,30 +10966,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Serbia,SRB,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",154497.02,1542.28,0.009982587366410046,0.00300894479167552
 2018,Serbia,SRB,Europe,K,Manufacture of transport equipment,39597.0,395.28,0.009982574437457382,0.00300894479167552
 2018,Serbia,SRB,Europe,L,"Manufacture of furniture, other manufacturing",29499.0,294.47,0.009982372283806232,0.00300894479167552
-2019,Serbia,SRB,Europe,A,"Manufacture of food products, beverages and tobacco products",164234.2,1560.43,0.009501248826371121,0.00300894479167552
-2019,Serbia,SRB,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",50528.0,480.08,0.009501266624445852,0.00300894479167552
-2019,Serbia,SRB,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",14602.77,138.74,0.009500937150965194,0.00300894479167552
-2019,Serbia,SRB,Europe,D,Manufacture of paper products and printing,34733.17,330.01,0.009501292280549111,0.00300894479167552
-2019,Serbia,SRB,Europe,E,Manufacture of coke and refined petroleum products,58291.75,553.84,0.00950117297902362,0.00300894479167552
-2019,Serbia,SRB,Europe,F,Manufacturing of chemicals and pharmaceutical products,59245.36,562.9,0.009501165998484945,0.00300894479167552
-2019,Serbia,SRB,Europe,G,Manufacture of rubber and plastics products,63930.32,607.42,0.009501282020800146,0.00300894479167552
-2019,Serbia,SRB,Europe,H,Manufacture of other non-metallic mineral products,32931.23,312.89,0.009501315316798065,0.00300894479167552
-2019,Serbia,SRB,Europe,I,Manufacture of basic metals,9256.51,87.95,0.009501421161971413,0.00300894479167552
-2019,Serbia,SRB,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",167230.27,1588.89,0.009501210516493218,0.00300894479167552
-2019,Serbia,SRB,Europe,K,Manufacture of transport equipment,40399.72,383.85,0.009501303474380517,0.00300894479167552
-2019,Serbia,SRB,Europe,L,"Manufacture of furniture, other manufacturing",32503.0,308.82,0.00950127680521798,0.00300894479167552
-2020,Serbia,SRB,Europe,A,"Manufacture of food products, beverages and tobacco products",173670.42,1683.45,0.009693360561919525,0.00300894479167552
-2020,Serbia,SRB,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",46739.21,453.06,0.009693360242930936,0.00300894479167552
-2020,Serbia,SRB,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",15055.89,145.94,0.009693216408993423,0.00300894479167552
-2020,Serbia,SRB,Europe,D,Manufacture of paper products and printing,32426.57,314.33,0.009693593864537631,0.00300894479167552
-2020,Serbia,SRB,Europe,E,Manufacture of coke and refined petroleum products,43617.16,422.8,0.009693432584790022,0.00300894479167552
-2020,Serbia,SRB,Europe,F,Manufacturing of chemicals and pharmaceutical products,61001.95,591.32,0.009693460618881856,0.00300894479167552
-2020,Serbia,SRB,Europe,G,Manufacture of rubber and plastics products,59903.99,580.67,0.009693344299770349,0.00300894479167552
-2020,Serbia,SRB,Europe,H,Manufacture of other non-metallic mineral products,32406.14,314.12,0.009693224802460276,0.00300894479167552
-2020,Serbia,SRB,Europe,I,Manufacture of basic metals,7741.78,75.04,0.009692861331631745,0.00300894479167552
-2020,Serbia,SRB,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",175305.11,1699.3,0.00969338543525628,0.00300894479167552
-2020,Serbia,SRB,Europe,K,Manufacture of transport equipment,33521.75,324.94,0.009693408011216598,0.00300894479167552
-2020,Serbia,SRB,Europe,L,"Manufacture of furniture, other manufacturing",35335.76,342.52,0.009693296535860554,0.00300894479167552
 2000,Singapore,SGP,Asia,A,"Manufacture of food products, beverages and tobacco products",1189.7,690.1,0.5800622005547617,0.08445495264016227
 2000,Singapore,SGP,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",249.97,145.0,0.5800696083530024,0.08445495264016227
 2000,Singapore,SGP,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",54.82,31.8,0.5800802626778548,0.08445495264016227
@@ -12112,42 +11403,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Slovenia,SVN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",3233.49,3818.6,1.1809530878400738,0.12933801987749455
 2018,Slovenia,SVN,Europe,K,Manufacture of transport equipment,787.14,929.57,1.1809462103310722,0.12933801987749455
 2018,Slovenia,SVN,Europe,L,"Manufacture of furniture, other manufacturing",385.08,454.76,1.1809494131089644,0.12933801987749455
-2019,Slovenia,SVN,Europe,A,"Manufacture of food products, beverages and tobacco products",686.8,768.86,1.119481654047758,0.12933801987749455
-2019,Slovenia,SVN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",274.0,306.73,1.1194525547445255,0.12933801987749455
-2019,Slovenia,SVN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",311.63,348.86,1.119468600584026,0.12933801987749455
-2019,Slovenia,SVN,Europe,D,Manufacture of paper products and printing,383.75,429.6,1.1194788273615637,0.12933801987749455
-2019,Slovenia,SVN,Europe,E,Manufacture of coke and refined petroleum products,0.2,0.22,1.0999999999999999,0.12933801987749455
-2019,Slovenia,SVN,Europe,F,Manufacturing of chemicals and pharmaceutical products,1651.11,1848.38,1.1194772001865414,0.12933801987749455
-2019,Slovenia,SVN,Europe,G,Manufacture of rubber and plastics products,731.37,818.75,1.1194744110368213,0.12933801987749455
-2019,Slovenia,SVN,Europe,H,Manufacture of other non-metallic mineral products,368.77,412.83,1.1194782655855953,0.12933801987749455
-2019,Slovenia,SVN,Europe,I,Manufacture of basic metals,526.83,589.78,1.1194882599700091,0.12933801987749455
-2019,Slovenia,SVN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",3437.59,3848.29,1.1194732356098311,0.12933801987749455
-2019,Slovenia,SVN,Europe,K,Manufacture of transport equipment,792.76,887.48,1.1194813058176498,0.12933801987749455
-2019,Slovenia,SVN,Europe,L,"Manufacture of furniture, other manufacturing",409.76,458.72,1.1194845763373682,0.12933801987749455
-2020,Slovenia,SVN,Europe,A,"Manufacture of food products, beverages and tobacco products",673.12,768.83,1.1421886142144047,0.12933801987749455
-2020,Slovenia,SVN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",237.55,271.33,1.1422016417596295,0.12933801987749455
-2020,Slovenia,SVN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",313.37,357.93,1.142196125985257,0.12933801987749455
-2020,Slovenia,SVN,Europe,D,Manufacture of paper products and printing,375.68,429.1,1.1421954855195913,0.12933801987749455
-2020,Slovenia,SVN,Europe,E,Manufacture of coke and refined petroleum products,0.48,0.55,1.1458333333333335,0.12933801987749455
-2020,Slovenia,SVN,Europe,F,Manufacturing of chemicals and pharmaceutical products,1828.36,2088.35,1.1421984729484347,0.12933801987749455
-2020,Slovenia,SVN,Europe,G,Manufacture of rubber and plastics products,710.21,811.2,1.1421973782402388,0.12933801987749455
-2020,Slovenia,SVN,Europe,H,Manufacture of other non-metallic mineral products,347.14,396.5,1.1421904707034627,0.12933801987749455
-2020,Slovenia,SVN,Europe,I,Manufacture of basic metals,421.6,481.55,1.142196394686907,0.12933801987749455
-2020,Slovenia,SVN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",3317.14,3788.82,1.1421947822521812,0.12933801987749455
-2020,Slovenia,SVN,Europe,K,Manufacture of transport equipment,727.48,830.93,1.1422032220817067,0.12933801987749455
-2020,Slovenia,SVN,Europe,L,"Manufacture of furniture, other manufacturing",345.44,394.56,1.14219546086151,0.12933801987749455
-2021,Slovenia,SVN,Europe,A,"Manufacture of food products, beverages and tobacco products",704.91,833.72,1.1827325474174009,0.12933801987749455
-2021,Slovenia,SVN,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",250.79,296.62,1.1827425335938435,0.12933801987749455
-2021,Slovenia,SVN,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",352.49,416.9,1.1827285880450509,0.12933801987749455
-2021,Slovenia,SVN,Europe,D,Manufacture of paper products and printing,347.91,411.49,1.182748411945618,0.12933801987749455
-2021,Slovenia,SVN,Europe,E,Manufacture of coke and refined petroleum products,0.22,0.26,1.1818181818181819,0.12933801987749455
-2021,Slovenia,SVN,Europe,F,Manufacturing of chemicals and pharmaceutical products,1832.97,2167.93,1.182741670621996,0.12933801987749455
-2021,Slovenia,SVN,Europe,G,Manufacture of rubber and plastics products,782.94,926.02,1.1827470815132703,0.12933801987749455
-2021,Slovenia,SVN,Europe,H,Manufacture of other non-metallic mineral products,382.3,452.16,1.1827360711483128,0.12933801987749455
-2021,Slovenia,SVN,Europe,I,Manufacture of basic metals,436.13,515.83,1.1827436773439113,0.12933801987749455
-2021,Slovenia,SVN,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",3764.84,4452.82,1.1827381774524282,0.12933801987749455
-2021,Slovenia,SVN,Europe,K,Manufacture of transport equipment,784.65,928.04,1.1827438985534953,0.12933801987749455
-2021,Slovenia,SVN,Europe,L,"Manufacture of furniture, other manufacturing",400.31,473.47,1.1827583622692415,0.12933801987749455
 2000,South Africa,ZAF,Africa,A,"Manufacture of food products, beverages and tobacco products",30781.62,4435.5,0.14409572985437413,0.0282478103561726
 2000,South Africa,ZAF,Africa,B,"Manufacture of textiles, wearing apparel, leather and related products",8824.69,1271.6,0.14409571327718027,0.0282478103561726
 2000,South Africa,ZAF,Africa,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",3868.96,557.5,0.14409557090277492,0.0282478103561726
@@ -12585,18 +11840,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Spain,ESP,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",25987.0,30689.45,1.1809539385077155,0.15932111147308073
 2018,Spain,ESP,Europe,K,Manufacture of transport equipment,17149.0,20252.18,1.180953991486384,0.15932111147308073
 2018,Spain,ESP,Europe,L,"Manufacture of furniture, other manufacturing",4427.0,5228.08,1.1809532414727806,0.15932111147308073
-2019,Spain,ESP,Europe,A,"Manufacture of food products, beverages and tobacco products",25921.0,29017.91,1.119474943096331,0.15932111147308073
-2019,Spain,ESP,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",8878.0,9938.7,1.1194751070060824,0.15932111147308073
-2019,Spain,ESP,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2079.0,2327.39,1.1194757094757095,0.15932111147308073
-2019,Spain,ESP,Europe,D,Manufacture of paper products and printing,6274.0,7023.58,1.1194740197641058,0.15932111147308073
-2019,Spain,ESP,Europe,E,Manufacture of coke and refined petroleum products,2635.0,2949.82,1.1194762808349146,0.15932111147308073
-2019,Spain,ESP,Europe,F,Manufacturing of chemicals and pharmaceutical products,16337.0,18288.86,1.119474811776948,0.15932111147308073
-2019,Spain,ESP,Europe,G,Manufacture of rubber and plastics products,6574.0,7359.43,1.1194752053544266,0.15932111147308073
-2019,Spain,ESP,Europe,H,Manufacture of other non-metallic mineral products,6541.0,7322.48,1.1194740865311115,0.15932111147308073
-2019,Spain,ESP,Europe,I,Manufacture of basic metals,5736.0,6421.31,1.1194752440725244,0.15932111147308073
-2019,Spain,ESP,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",26448.0,29607.87,1.1194748185117966,0.15932111147308073
-2019,Spain,ESP,Europe,K,Manufacture of transport equipment,17629.0,19735.22,1.1194747291394862,0.15932111147308073
-2019,Spain,ESP,Europe,L,"Manufacture of furniture, other manufacturing",4748.0,5315.27,1.1194755686604887,0.15932111147308073
 2000,Sweden,SWE,Europe,A,"Manufacture of food products, beverages and tobacco products",34001.0,3710.99,0.10914355460133525,0.017660510617065785
 2000,Sweden,SWE,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",5464.0,596.36,0.10914348462664715,0.017660510617065785
 2000,Sweden,SWE,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",15343.0,1674.59,0.10914358339307827,0.017660510617065785
@@ -12825,17 +12068,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,Sweden,SWE,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",195662.0,22509.24,0.11504144902944875,0.017660510617065785
 2018,Sweden,SWE,Europe,K,Manufacture of transport equipment,132047.0,15190.88,0.11504146250956099,0.017660510617065785
 2018,Sweden,SWE,Europe,L,"Manufacture of furniture, other manufacturing",18094.0,2081.56,0.11504145020448767,0.017660510617065785
-2019,Sweden,SWE,Europe,A,"Manufacture of food products, beverages and tobacco products",47906.0,5064.94,0.10572663131966767,0.017660510617065785
-2019,Sweden,SWE,Europe,B,"Manufacture of textiles, wearing apparel, leather and related products",4999.0,528.53,0.10572714542908582,0.017660510617065785
-2019,Sweden,SWE,Europe,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",22964.0,2427.91,0.1057267897578819,0.017660510617065785
-2019,Sweden,SWE,Europe,D,Manufacture of paper products and printing,49104.0,5191.61,0.10572682469859888,0.017660510617065785
-2019,Sweden,SWE,Europe,E,Manufacture of coke and refined petroleum products,6129.0,648.0,0.10572687224669604,0.017660510617065785
-2019,Sweden,SWE,Europe,G,Manufacture of rubber and plastics products,17252.0,1824.0,0.10572687224669604,0.017660510617065785
-2019,Sweden,SWE,Europe,H,Manufacture of other non-metallic mineral products,16531.0,1747.77,0.10572681628455628,0.017660510617065785
-2019,Sweden,SWE,Europe,I,Manufacture of basic metals,34435.0,3640.7,0.10572673152315958,0.017660510617065785
-2019,Sweden,SWE,Europe,J,"Manufacture of fabricated metal products, machinery and equipment",194506.0,20564.48,0.1057267128006334,0.017660510617065785
-2019,Sweden,SWE,Europe,K,Manufacture of transport equipment,135742.0,14351.55,0.10572667265842554,0.017660510617065785
-2019,Sweden,SWE,Europe,L,"Manufacture of furniture, other manufacturing",20379.0,2154.6,0.10572648314441337,0.017660510617065785
 2000,Thailand,THA,Asia,A,"Manufacture of food products, beverages and tobacco products",252936.98,6305.8,0.02493032058815599,0.003238758046921041
 2000,Thailand,THA,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",193659.77,4828.0,0.024930319807774222,0.003238758046921041
 2000,Thailand,THA,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16269.35,405.6,0.024930313749473704,0.003238758046921041
@@ -13482,42 +12714,6 @@ Year,Country,ISO3,Continent,Ind Code,Industry,Value (LCU),Value (USD),Exchange R
 2018,United States,USA,North America,J,"Manufacture of fabricated metal products, machinery and equipment",685707.06,685707.06,1.0,4.330824225064458e-08
 2018,United States,USA,North America,K,Manufacture of transport equipment,308436.5,308436.47,0.9999999027352469,4.330824225064458e-08
 2018,United States,USA,North America,L,"Manufacture of furniture, other manufacturing",120904.19,120904.19,1.0,4.330824225064458e-08
-2019,United States,USA,North America,A,"Manufacture of food products, beverages and tobacco products",264972.22,264972.22,1.0,4.330824225064458e-08
-2019,United States,USA,North America,B,"Manufacture of textiles, wearing apparel, leather and related products",26345.68,26345.68,1.0,4.330824225064458e-08
-2019,United States,USA,North America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",38916.47,38916.47,1.0,4.330824225064458e-08
-2019,United States,USA,North America,D,Manufacture of paper products and printing,101850.24,101850.25,1.0000000981833719,4.330824225064458e-08
-2019,United States,USA,North America,E,Manufacture of coke and refined petroleum products,142106.3,142106.3,1.0,4.330824225064458e-08
-2019,United States,USA,North America,F,Manufacturing of chemicals and pharmaceutical products,393001.47,393001.47,1.0,4.330824225064458e-08
-2019,United States,USA,North America,G,Manufacture of rubber and plastics products,83106.0,83106.0,1.0,4.330824225064458e-08
-2019,United States,USA,North America,H,Manufacture of other non-metallic mineral products,67218.43,67218.43,1.0,4.330824225064458e-08
-2019,United States,USA,North America,I,Manufacture of basic metals,80305.65,80305.65,1.0,4.330824225064458e-08
-2019,United States,USA,North America,J,"Manufacture of fabricated metal products, machinery and equipment",703464.31,703464.31,1.0,4.330824225064458e-08
-2019,United States,USA,North America,K,Manufacture of transport equipment,315942.31,315942.31,1.0,4.330824225064458e-08
-2019,United States,USA,North America,L,"Manufacture of furniture, other manufacturing",122088.74,122088.74,1.0,4.330824225064458e-08
-2020,United States,USA,North America,A,"Manufacture of food products, beverages and tobacco products",282523.69,282523.69,1.0,4.330824225064458e-08
-2020,United States,USA,North America,B,"Manufacture of textiles, wearing apparel, leather and related products",23667.27,23667.27,1.0,4.330824225064458e-08
-2020,United States,USA,North America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",44273.39,44273.39,1.0,4.330824225064458e-08
-2020,United States,USA,North America,D,Manufacture of paper products and printing,97608.26,97608.26,1.0,4.330824225064458e-08
-2020,United States,USA,North America,E,Manufacture of coke and refined petroleum products,57173.5,57173.5,1.0,4.330824225064458e-08
-2020,United States,USA,North America,F,Manufacturing of chemicals and pharmaceutical products,396643.62,396643.62,1.0,4.330824225064458e-08
-2020,United States,USA,North America,G,Manufacture of rubber and plastics products,79404.89,79404.89,1.0,4.330824225064458e-08
-2020,United States,USA,North America,H,Manufacture of other non-metallic mineral products,71132.26,71132.26,1.0,4.330824225064458e-08
-2020,United States,USA,North America,I,Manufacture of basic metals,69103.09,69103.1,1.0000001447113291,4.330824225064458e-08
-2020,United States,USA,North America,J,"Manufacture of fabricated metal products, machinery and equipment",687224.31,687224.31,1.0,4.330824225064458e-08
-2020,United States,USA,North America,K,Manufacture of transport equipment,284914.0,284914.0,1.0,4.330824225064458e-08
-2020,United States,USA,North America,L,"Manufacture of furniture, other manufacturing",120437.02,120437.02,1.0,4.330824225064458e-08
-2021,United States,USA,North America,A,"Manufacture of food products, beverages and tobacco products",300503.97,300503.97,1.0,4.330824225064458e-08
-2021,United States,USA,North America,B,"Manufacture of textiles, wearing apparel, leather and related products",25986.05,25986.05,1.0,4.330824225064458e-08
-2021,United States,USA,North America,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",61653.46,61653.46,1.0,4.330824225064458e-08
-2021,United States,USA,North America,D,Manufacture of paper products and printing,99001.5,99001.5,1.0,4.330824225064458e-08
-2021,United States,USA,North America,E,Manufacture of coke and refined petroleum products,123799.67,123799.67,1.0,4.330824225064458e-08
-2021,United States,USA,North America,F,Manufacturing of chemicals and pharmaceutical products,435688.56,435688.56,1.0,4.330824225064458e-08
-2021,United States,USA,North America,G,Manufacture of rubber and plastics products,84870.9,84870.9,1.0,4.330824225064458e-08
-2021,United States,USA,North America,H,Manufacture of other non-metallic mineral products,75272.54,75272.54,1.0,4.330824225064458e-08
-2021,United States,USA,North America,I,Manufacture of basic metals,90753.03,90753.03,1.0,4.330824225064458e-08
-2021,United States,USA,North America,J,"Manufacture of fabricated metal products, machinery and equipment",735589.0,735589.0,1.0,4.330824225064458e-08
-2021,United States,USA,North America,K,Manufacture of transport equipment,308112.5,308112.5,1.0,4.330824225064458e-08
-2021,United States,USA,North America,L,"Manufacture of furniture, other manufacturing",126771.08,126771.08,1.0,4.330824225064458e-08
 2000,Viet Nam,VNM,Asia,A,"Manufacture of food products, beverages and tobacco products",24011502.0,1694.8,7.058283984067302e-05,8.829442497615906e-06
 2000,Viet Nam,VNM,Asia,B,"Manufacture of textiles, wearing apparel, leather and related products",21227540.0,1498.3,7.058283720110762e-05,8.829442497615906e-06
 2000,Viet Nam,VNM,Asia,C,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2622450.5,185.1,7.058283845586409e-05,8.829442497615906e-06
