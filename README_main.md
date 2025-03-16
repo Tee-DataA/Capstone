@@ -26,11 +26,16 @@ Geographic Interest:
 As a global investor, John is open to investment opportunities across the world. However, he has a particular interest in Europe and the UK, given his familiarity with the region's economic landscape and regulatory environment. He is also keen on exploring opportunities in emerging markets, where he believes there is substantial untapped potential.
 
 Investment Criteria:
+
 Growth Potential: John looks for industries that have shown consistent growth over the years and have the potential for future expansion.
 Economic Stability: He prefers countries with stable economic conditions and favorable government policies that support industrial growth.
+
 Technological Advancements: John is interested in industries that are leveraging new technologies to improve efficiency and productivity.
+
 Market Demand: He seeks sectors with increasing global demand, ensuring a steady market for the products.
+
 Risk Management: John evaluates the risks associated with each investment, including political, economic, and market risks, and seeks to mitigate them through diversification and strategic planning.
+
 Data Requirements:
 To make informed investment decisions, John requires comprehensive data on the manufacturing industries, including:
 
