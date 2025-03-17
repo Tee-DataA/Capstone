@@ -99,8 +99,8 @@
           <member value='&quot;Viet Nam&quot;' />
         </members>
       </column>
-      <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-        <calculation class='tableau' formula='2018' />
+      <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+        <calculation class='tableau' formula='2005' />
         <range granularity='1' max='2018' min='2000' />
       </column>
       <column caption='Country Selected' datatype='string' default-value-field='[Parameters].[Country Parameter]' name='[Parameter 2]' param-domain-type='list' role='measure' type='nominal' value='&quot;Iceland&quot;'>
@@ -2576,8 +2576,8 @@
         <field-sort-custom-order field='Volatility' />
       </field-sort-info>
       <datasource-dependencies datasource='Parameters'>
-        <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-          <calculation class='tableau' formula='2018' />
+        <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+          <calculation class='tableau' formula='2005' />
           <range granularity='1' max='2018' min='2000' />
         </column>
       </datasource-dependencies>
@@ -2762,7 +2762,7 @@
             <column-instance column='[Value USD (million USD)]' derivation='Sum' name='[sum:Value USD (million USD):qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]'>
-            <groupfilter function='member' level='[Country]' member='&quot;Russian Federation&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[Country]' member='&quot;China&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='quantitative' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[none:Year:qk]' included-values='in-range'>
             <min>2000</min>
@@ -2841,6 +2841,7 @@
             <mark class='Line' />
             <encodings>
               <color column='[federated.0718mxr1a6cp791149b1z0nwptcu].[:Measure Names]' />
+              <tooltip column='[federated.0718mxr1a6cp791149b1z0nwptcu].[sum:Value USD (million USD):qk]' />
             </encodings>
             <trendline enable-confidence-bands='false' enable-instant-analytics='true' enabled='true' exclude-color='false' exclude-intercept='false' fit='linear' />
           </pane>
@@ -2870,7 +2871,7 @@
             <column-instance column='[Value USD (million USD)]' derivation='Sum' name='[sum:Value USD (million USD):qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]'>
-            <groupfilter function='member' level='[Country]' member='&quot;Russian Federation&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[Country]' member='&quot;China&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[none:Industry:nk]'>
             <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
@@ -2930,8 +2931,8 @@
             <mapsource name='Tableau' />
           </mapsources>
           <datasource-dependencies datasource='Parameters'>
-            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-              <calculation class='tableau' formula='2018' />
+            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+              <calculation class='tableau' formula='2005' />
               <range granularity='1' max='2018' min='2000' />
             </column>
           </datasource-dependencies>
@@ -3030,7 +3031,7 @@
             <column-instance column='[Calculation_3129720323556614172]' derivation='User' name='[usr:Calculation_3129720323556614172:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]'>
-            <groupfilter function='member' level='[Country]' member='&quot;Russian Federation&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[Country]' member='&quot;China&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]</column>
@@ -3134,8 +3135,8 @@
             <datasource name='Parameters' />
           </datasources>
           <datasource-dependencies datasource='Parameters'>
-            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-              <calculation class='tableau' formula='2018' />
+            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+              <calculation class='tableau' formula='2005' />
               <range granularity='1' max='2018' min='2000' />
             </column>
           </datasource-dependencies>
@@ -3159,7 +3160,7 @@
             <column-instance column='[Selected Year (copy)_3129720323501756438]' derivation='Sum' name='[sum:Selected Year (copy)_3129720323501756438:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]'>
-            <groupfilter function='member' level='[Country]' member='&quot;Russian Federation&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[Country]' member='&quot;China&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[federated.0718mxr1a6cp791149b1z0nwptcu].[none:Country:nk]</column>
@@ -3217,8 +3218,8 @@
             <datasource name='Parameters' />
           </datasources>
           <datasource-dependencies datasource='Parameters'>
-            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-              <calculation class='tableau' formula='2018' />
+            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+              <calculation class='tableau' formula='2005' />
               <range granularity='1' max='2018' min='2000' />
             </column>
           </datasource-dependencies>
@@ -3248,7 +3249,7 @@
             <column-instance column='[Value YoY (copy)_3129720323500167187]' derivation='User' name='[usr:Value YoY (copy)_3129720323500167187:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]'>
-            <groupfilter function='member' level='[Country]' member='&quot;Russian Federation&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[Country]' member='&quot;China&quot;' user:ui-action-filter='[Action1_E38B638972354CEF9791BF72DD42DE40]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[federated.0718mxr1a6cp791149b1z0nwptcu].[Action (Country)]</column>
@@ -3335,8 +3336,8 @@
             <datasource name='Parameters' />
           </datasources>
           <datasource-dependencies datasource='Parameters'>
-            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-              <calculation class='tableau' formula='2018' />
+            <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+              <calculation class='tableau' formula='2005' />
               <range granularity='1' max='2018' min='2000' />
             </column>
           </datasource-dependencies>
@@ -3408,8 +3409,8 @@
         <datasource caption='df_eng_final' name='federated.0718mxr1a6cp791149b1z0nwptcu' />
       </datasources>
       <datasource-dependencies datasource='Parameters'>
-        <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2018'>
-          <calculation class='tableau' formula='2018' />
+        <column caption='Year Selected' datatype='integer' name='[Parameter 1]' param-domain-type='range' role='measure' type='quantitative' value='2005'>
+          <calculation class='tableau' formula='2005' />
           <range granularity='1' max='2018' min='2000' />
         </column>
       </datasource-dependencies>
@@ -3636,7 +3637,7 @@
       </cards>
       <simple-id uuid='{FC873980-7E2B-4B6F-9750-D61BDE8CA25E}' />
     </window>
-    <window class='worksheet' name='Map'>
+    <window class='worksheet' maximized='true' name='Map'>
       <cards>
         <edge name='left'>
           <strip size='224'>
@@ -3652,7 +3653,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='28'>
+          <strip size='27'>
             <card type='title' />
           </strip>
         </edge>
@@ -3682,7 +3683,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='30'>
+          <strip size='29'>
             <card type='title' />
           </strip>
         </edge>
@@ -3744,7 +3745,7 @@
       </viewpoint>
       <simple-id uuid='{5CB1EC6B-00B5-4D9C-8BFE-E96C5258101A}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard 1'>
+    <window class='dashboard' name='Dashboard 1'>
       <viewpoints>
         <viewpoint name='GDP vs Value'>
           <zoom type='entire-view' />
@@ -3766,7 +3767,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='1' />
+      <active id='17' />
       <simple-id uuid='{AF9146C1-E068-4941-BCB1-2E2DEF484720}' />
     </window>
     <window class='worksheet' name='Sheet 8'>
