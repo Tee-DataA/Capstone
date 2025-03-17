@@ -234,6 +234,26 @@ The dashboard was designed in tableau as it is a powerful tool to perform live d
    Purpose: Interactive data visualization.
    Example Usage: Creating interactive plots and dashboards.
 
+## Evaluation
+
+We will answer the following hypothesis here
+
+# Hypothesis 1: #
+The manufacturing industry in China has the largest value (USD) in 2018
+
+Answer: I findings indicate that this is true.
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+# Hypothesis 1: #
+The manufacturing industry in Asia has experienced the highest growth in value (USD) from 2000 to 2018.
+
+According to our findings this is not the case.
+
+# Hypothesis 2:#
+Hypothesis: The manufacturing of machinery sector has shown the most significant increase in value (USD) across all countries from 2000 to 2018.
+
 
 ## Credits 
 Data was obtained from the following websites:
