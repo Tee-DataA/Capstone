@@ -83,7 +83,7 @@ Aggregate the data to calculate the total value (USD) for each year.
 Calculate the percentage growth of the machinery sector from 2000 to 2021.
 Compare the growth rate with other sectors to determine if it is the highest.
 
-Hypothesis 3:
+# Hypothesis 3:
 Hypothesis: European countries have more stable manufacturing growth compared to other regions.
 
 How to Test:
@@ -181,11 +181,13 @@ Generative AI tools were used to assist with ideation, code optimization and tro
 
 # Ideation: Generating ideas for data visualizations and analysis techniques.
 
-User Profile: The user profile was generated using AI by giving it information about the dataset and the relevant parties that would benefit from it
+User Profile: The user profile was generated using AI by giving it information about the dataset and the relevant parties that were looking to benefit from it.
 
 Code Optimization: Improving the efficiency and readability of the code.
 
-Troubleshooting: Fixing issues witht he code and helping with complex coding tasks
+Analysis data: Some of the data was described using AI such as the sunburst graph. AI was also used to suggest what analysis and graphs can and should be performed on the dataset presented and the relevant statistical tests to perfrom. 
+
+Troubleshooting: Fixing issues with the code and helping with complex coding tasks
 
 By employing these analysis techniques, the project aims to provide comprehensive and accurate insights that align with the investor's goals and support informed decision-making.
 
@@ -212,26 +214,34 @@ The dashboard was designed in tableau as it is a powerful tool to perform live d
 
 
 ## Main Data Analysis Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+* Pandas:
+   Purpose: Data manipulation and analysis.
+   Example Usage: Loading datasets, cleaning data, filtering, and aggregating data.
+
+* NumPy:
+   Purpose: Numerical operations and array manipulation.
+   Example Usage: Handling numerical data and performing mathematical operations.
+
+* Matplotlib:
+   Purpose: Data visualization.
+   Example Usage: Creating static plots and charts.
+
+* Seaborn:
+   Purpose: Statistical data visualization.
+   Example Usage: Creating advanced visualizations such as heatmaps and pair plots.
+
+* Plotly:
+   Purpose: Interactive data visualization.
+   Example Usage: Creating interactive plots and dashboards.
 
 
 ## Credits 
+Data was obtained from the following websites:
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
+https://www.iea.org/data-and-statistics/data-product/energy-and-emissions-per-value-added-database
 
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
-
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 
 ## Acknowledgements (optional)
-* Thank the people who provided support through this project.
+* Special thanks to Vasi Pavaloi who was readily available to give advice and direction when I was stuck
