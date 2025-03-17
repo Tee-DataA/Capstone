@@ -241,18 +241,16 @@ We will answer the following hypothesis here
 # Hypothesis 1: #
 The manufacturing industry in China has the largest value (USD) in 2018
 
-Answer: I findings indicate that this is true.
+Answer: We found this to be true.
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Tee-DataA/Capstone/blob/main/Images/Sunburst.png "Logo Title Text 1")
 
-# Hypothesis 1: #
+Looking at the chart, we can clearly see that China has the largest value in the manufacturing industry in 2018. This is consistent with China's position as a global manufacturing powerhouse, driven by its large-scale industrial base, extensive supply chains, and significant investments in manufacturing infrastructure.
+
+# Hypothesis 2: #
 The manufacturing industry in Asia has experienced the highest growth in value (USD) from 2000 to 2018.
 
-According to our findings this is not the case.
-
-# Hypothesis 2:#
-Hypothesis: The manufacturing of machinery sector has shown the most significant increase in value (USD) across all countries from 2000 to 2018.
 
 
 ## Credits 
