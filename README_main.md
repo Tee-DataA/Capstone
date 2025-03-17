@@ -23,7 +23,7 @@ Investment Focus:
 John's primary focus is on the manufacturing industry, where he seeks to identify sectors with significant growth potential and strong returns on investment. He is particularly interested in industries that are poised for expansion due to technological advancements, favorable economic policies, and increasing global demand.
 
 Geographic Interest:
-As a global investor, John is open to investment opportunities across the world. However, he has a particular interest in Europe and the UK, given his familiarity with the region's economic landscape and regulatory environment. He is also keen on exploring opportunities in emerging markets, where he believes there is substantial untapped potential.
+As a global investor, John is open to investment opportunities across the world. However, he has a particular interest in Asia. He is also keen on exploring opportunities in emerging markets, where he believes there is substantial untapped potential.
 
 Investment Criteria:
 
@@ -65,7 +65,21 @@ By utilizing the comprehensive data on the value (USD) of 12 manufacturing indus
 ## Hypothesis and how to validate?
 
 # Hypothesis 1: #
-The manufacturing industry in Asia has experienced the highest growth in value (USD) from 2000 to 2018.
+The manufacturing industry in China has the largest value (USD) in 2018
+
+How to Test:
+Filter the Data for the Year 2018:
+
+Filter the dataset to include only the data for the year 2018.
+Aggregate the Data by Country:
+
+Aggregate the data to calculate the total value (USD) of the manufacturing industry for each country in 2018.
+Identify the Country with the Largest Value:
+
+Identify the country with the largest total value (USD) in the manufacturing industry for 2018
+
+# Hypothesis 2: #
+The top 10 for growth in manufacturing industry is mainly in Asia 
 
 How to Test:
 
@@ -73,24 +87,6 @@ Aggregate the data to calculate the total value (USD) of the manufacturing indus
 Calculate the percentage growth for each continent from 2000 to 2018.
 Compare the growth rates to identify the continent with the highest growth.
 
-# Hypothesis 2:#
-Hypothesis: The manufacturing of machinery sector has shown the most significant increase in value (USD) across all countries from 2000 to 2018.
-
-How to Test:
-
-Filter the data to include only the electronics manufacturing sector.
-Aggregate the data to calculate the total value (USD) for each year.
-Calculate the percentage growth of the machinery sector from 2000 to 2021.
-Compare the growth rate with other sectors to determine if it is the highest.
-
-# Hypothesis 3:
-Hypothesis: European countries have more stable manufacturing growth compared to other regions.
-
-How to Test:
-
-Calculate the year-over-year growth rate of the manufacturing industry for each country.
-Compute the standard deviation of the growth rates for each region.
-Compare the standard deviations to assess the stability of manufacturing growth across different regions.
 
 ## Project Plan
 * After loading and cleaning the dataset, columns and data will be adjusted to make it easier to read and perform analysis on. 
@@ -244,14 +240,21 @@ The manufacturing industry in China has the largest value (USD) in 2018
 Answer: We found this to be true.
 
 Inline-style: 
-![alt text](https://github.com/Tee-DataA/Capstone/blob/main/Images/Sunburst.png "Logo Title Text 1")
+![alt text](https://github.com/Tee-DataA/Capstone/blob/main/Images/Sunburst.png)
 
 Looking at the chart, we can clearly see that China has the largest value in the manufacturing industry in 2018. This is consistent with China's position as a global manufacturing powerhouse, driven by its large-scale industrial base, extensive supply chains, and significant investments in manufacturing infrastructure.
 
 # Hypothesis 2: #
-The manufacturing industry in Asia has experienced the highest growth in value (USD) from 2000 to 2018.
+The top 10 for growth in manufacturing industry is mainly in Asia 
 
+This not correct
 
+![alt text](https://github.com/Tee-DataA/Capstone/blob/main/Images/image.png)
+
+While Asia has shown significant growth in manufacturing, other regions, such as the Middle East, have also experienced substantial growth. This could be due to increased investments in industrialization and economic diversification efforts in those regions. The Middle East, in particular, has seen a surge in manufacturing activities as part of broader economic diversification strategies to reduce dependence on oil revenues.
+
+## Conclusion
+The analysis reveals that while China remains a major player in the global manufacturing industry, its growth rate in recent years has been outpaced by other emerging markets. This highlights the dynamic nature of the global manufacturing landscape and the importance of considering multiple factors when evaluating growth and investment opportunities. As a disclaimer, we do need more information on other factors that can significantly impact the manufacturing industry, such as technological advancements, government policies, and global economic conditions. These factors can provide a more comprehensive understanding of the trends and help in making more informed investment decisions.
 
 ## Credits 
 Data was obtained from the following websites:
